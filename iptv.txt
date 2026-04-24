@@ -5,8 +5,6 @@ CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV1,http://j.s.bkpcp.top/jj/cctv1
 CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV1,http://k.61899.xyz/m.php?id=cctv1
-CCTV1,http://go.061899.xyz/mg/cctv1
 CCTV1,http://192.151.150.154/tvlive/cctv1hd.m3u8?node=1
 CCTV1,http://192.151.150.154/tvlive/cctv1hd.m3u8?node=2
 CCTV1,http://192.151.150.154/tvlive/cctv1hd.m3u8?node=3
@@ -29,8 +27,6 @@ CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV2,http://j.s.bkpcp.top/jj/cctv2
 CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV2,http://k.61899.xyz/m.php?id=cctv2
-CCTV2,http://go.061899.xyz/mg/cctv2
 CCTV2,http://192.151.150.154/tvlive/cctv2hd.m3u8?node=1
 CCTV2,http://192.151.150.154/tvlive/cctv2hd.m3u8?node=2
 CCTV2,http://192.151.150.154/tvlive/cctv2hd.m3u8?node=3
@@ -53,8 +49,6 @@ CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 CCTV3,http://go.bkpcp.top/mg/cctv3
 CCTV3,http://j.s.bkpcp.top/jj/cctv3
 CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV3,http://k.61899.xyz/m.php?id=cctv3
-CCTV3,http://go.061899.xyz/mg/cctv3
 CCTV3,http://192.151.150.154/tvlive/cctv3hd.m3u8?node=1
 CCTV3,http://192.151.150.154/tvlive/cctv3hd.m3u8?node=2
 CCTV3,http://192.151.150.154/tvlive/cctv3hd.m3u8?node=3
@@ -77,8 +71,6 @@ CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 CCTV4,http://go.bkpcp.top/mg/cctv4
 CCTV4,http://j.s.bkpcp.top/jj/cctv4
 CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV4,http://k.61899.xyz/m.php?id=cctv4
-CCTV4,http://go.061899.xyz/mg/cctv4
 CCTV4,http://192.151.150.154/tvlive/cctv4hd.m3u8?node=1
 CCTV4,http://192.151.150.154/tvlive/cctv4hd.m3u8?node=2
 CCTV4,http://192.151.150.154/tvlive/cctv4hd.m3u8?node=3
@@ -101,8 +93,6 @@ CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://j.s.bkpcp.top/jj/cctv5
 CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5,http://k.61899.xyz/m.php?id=cctv5
-CCTV5,http://go.061899.xyz/mg/cctv5
 CCTV5,http://192.151.150.154/tvlive/cctv5hd.m3u8?node=1
 CCTV5,http://192.151.150.154/tvlive/cctv5hd.m3u8?node=2
 CCTV5,http://192.151.150.154/tvlive/cctv5hd.m3u8?node=3
@@ -140,8 +130,6 @@ CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
 CCTV6,http://go.bkpcp.top/mg/cctv6
 CCTV6,http://j.s.bkpcp.top/jj/cctv6
 CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV6,http://k.61899.xyz/m.php?id=cctv6
-CCTV6,http://go.061899.xyz/mg/cctv6
 
 CCTV7,http://m.061899.xyz/mg/cctv7
 CCTV7,http://t.061899.xyz/tl/dq.php?id=cctv7
@@ -149,8 +137,6 @@ CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
 CCTV7,http://go.bkpcp.top/mg/cctv7
 CCTV7,http://j.s.bkpcp.top/jj/cctv7
 CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV7,http://k.61899.xyz/m.php?id=cctv7
-CCTV7,http://go.061899.xyz/mg/cctv7
 CCTV7,http://192.151.150.154/tvlive/cctv7hd.m3u8?node=1
 CCTV7,http://192.151.150.154/tvlive/cctv7hd.m3u8?node=2
 CCTV7,http://192.151.150.154/tvlive/cctv7hd.m3u8?node=3
@@ -173,8 +159,6 @@ CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
 CCTV8,http://go.bkpcp.top/mg/cctv8
 CCTV8,http://j.s.bkpcp.top/jj/cctv8
 CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV8,http://k.61899.xyz/m.php?id=cctv8
-CCTV8,http://go.061899.xyz/mg/cctv8
 CCTV8,http://192.151.150.154/tvlive/cctv8hd.m3u8?node=1
 CCTV8,http://192.151.150.154/tvlive/cctv8hd.m3u8?node=2
 CCTV8,http://192.151.150.154/tvlive/cctv8hd.m3u8?node=3
@@ -197,8 +181,6 @@ CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
 CCTV9,http://go.bkpcp.top/mg/cctv9
 CCTV9,http://j.s.bkpcp.top/jj/cctv9
 CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV9,http://k.61899.xyz/m.php?id=cctv9
-CCTV9,http://go.061899.xyz/mg/cctv9
 CCTV9,http://192.151.150.154/tvlive/cctv9hd.m3u8?node=1
 CCTV9,http://192.151.150.154/tvlive/cctv9hd.m3u8?node=2
 CCTV9,http://192.151.150.154/tvlive/cctv9hd.m3u8?node=3
@@ -221,8 +203,6 @@ CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 CCTV10,http://go.bkpcp.top/mg/cctv10
 CCTV10,http://j.s.bkpcp.top/jj/cctv10
 CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV10,http://k.61899.xyz/m.php?id=cctv10
-CCTV10,http://go.061899.xyz/mg/cctv10
 CCTV10,http://192.151.150.154/tvlive/cctv10hd.m3u8?node=1
 CCTV10,http://192.151.150.154/tvlive/cctv10hd.m3u8?node=2
 CCTV10,http://192.151.150.154/tvlive/cctv10hd.m3u8?node=3
@@ -245,8 +225,6 @@ CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
 CCTV11,http://go.bkpcp.top/mg/cctv11
 CCTV11,http://j.s.bkpcp.top/jj/cctv11
 CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV11,http://k.61899.xyz/m.php?id=cctv11
-CCTV11,http://go.061899.xyz/mg/cctv11
 CCTV11,http://192.151.150.154/tvlive/cctv11hd.m3u8?node=1
 CCTV11,http://192.151.150.154/tvlive/cctv11hd.m3u8?node=2
 CCTV11,http://192.151.150.154/tvlive/cctv11hd.m3u8?node=3
@@ -269,8 +247,6 @@ CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
 CCTV12,http://go.bkpcp.top/mg/cctv12
 CCTV12,http://j.s.bkpcp.top/jj/cctv12
 CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV12,http://k.61899.xyz/m.php?id=cctv12
-CCTV12,http://go.061899.xyz/mg/cctv12
 CCTV12,http://192.151.150.154/tvlive/cctv12hd.m3u8?node=1
 CCTV12,http://192.151.150.154/tvlive/cctv12hd.m3u8?node=2
 CCTV12,http://192.151.150.154/tvlive/cctv12hd.m3u8?node=3
@@ -293,8 +269,6 @@ CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
 CCTV13,http://go.bkpcp.top/mg/cctv13
 CCTV13,http://j.s.bkpcp.top/jj/cctv13
 CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV13,http://k.61899.xyz/m.php?id=cctv13
-CCTV13,http://go.061899.xyz/mg/cctv13
 CCTV13,http://192.151.150.154/tvlive/cctv13hd.m3u8?node=1
 CCTV13,http://192.151.150.154/tvlive/cctv13hd.m3u8?node=2
 CCTV13,http://192.151.150.154/tvlive/cctv13hd.m3u8?node=3
@@ -317,8 +291,6 @@ CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV14,http://j.s.bkpcp.top/jj/cctv14
 CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV14,http://k.61899.xyz/m.php?id=cctv14
-CCTV14,http://go.061899.xyz/mg/cctv14
 CCTV14,http://192.151.150.154/tvlive/cctv14hd.m3u8?node=1
 CCTV14,http://192.151.150.154/tvlive/cctv14hd.m3u8?node=2
 CCTV14,http://192.151.150.154/tvlive/cctv14hd.m3u8?node=3
@@ -341,8 +313,6 @@ CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV15,http://j.s.bkpcp.top/jj/cctv15
 CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV15,http://k.61899.xyz/m.php?id=cctv15
-CCTV15,http://go.061899.xyz/mg/cctv15
 CCTV15,http://192.151.150.154/tvlive/cctv15hd.m3u8?node=1
 CCTV15,http://192.151.150.154/tvlive/cctv15hd.m3u8?node=2
 CCTV15,http://192.151.150.154/tvlive/cctv15hd.m3u8?node=3
@@ -365,8 +335,6 @@ CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV16,http://j.s.bkpcp.top/jj/cctv16
 CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV16,http://k.61899.xyz/m.php?id=cctv16
-CCTV16,http://go.061899.xyz/mg/cctv16
 CCTV16,http://192.151.150.154/tvlive/cctv16hd.m3u8?node=1
 CCTV16,http://192.151.150.154/tvlive/cctv16hd.m3u8?node=2
 CCTV16,http://192.151.150.154/tvlive/cctv16hd.m3u8?node=3
@@ -389,8 +357,6 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV17,http://j.s.bkpcp.top/jj/cctv17
 CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
-CCTV17,http://k.61899.xyz/m.php?id=cctv17
-CCTV17,http://go.061899.xyz/mg/cctv17
 CCTV17,http://192.151.150.154/tvlive/cctv17hd.m3u8?node=1
 CCTV17,http://192.151.150.154/tvlive/cctv17hd.m3u8?node=2
 CCTV17,http://192.151.150.154/tvlive/cctv17hd.m3u8?node=3
@@ -413,8 +379,6 @@ CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5+
 CCTV5+,http://go.bkpcp.top/mg/cctv5+
 CCTV5+,http://j.s.bkpcp.top/jj/cctv5+
 CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5+
-CCTV5+,http://k.61899.xyz/m.php?id=cctv5+
-CCTV5+,http://go.061899.xyz/mg/cctv5+
 CCTV5+,http://192.151.150.154/tvlive/cctv5p.m3u8?node=1
 CCTV5+,http://192.151.150.154/tvlive/cctv5p.m3u8?node=2
 CCTV5+,http://192.151.150.154/tvlive/cctv5p.m3u8?node=3
@@ -437,8 +401,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 第一剧场,http://go.bkpcp.top/mg/dyjc
 第一剧场,http://j.s.bkpcp.top/jj/dyjc
 第一剧场,http://t.061899.xyz/tl/tl.php?id=dyjc
-第一剧场,http://k.61899.xyz/m.php?id=dyjc
-第一剧场,http://go.061899.xyz/mg/dyjc
 第一剧场,http://192.151.150.154/tvlive/dyjc.m3u8?node=1
 第一剧场,http://192.151.150.154/tvlive/dyjc.m3u8?node=2
 第一剧场,http://192.151.150.154/tvlive/dyjc.m3u8?node=3
@@ -461,8 +423,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 电视指南,http://go.bkpcp.top/mg/dszn
 电视指南,http://j.s.bkpcp.top/jj/dszn
 电视指南,http://t.061899.xyz/tl/tl.php?id=dszn
-电视指南,http://k.61899.xyz/m.php?id=dszn
-电视指南,http://go.061899.xyz/mg/dszn
 电视指南,http://192.151.150.154/tvlive/dszn.m3u8?node=1
 电视指南,http://192.151.150.154/tvlive/dszn.m3u8?node=2
 电视指南,http://192.151.150.154/tvlive/dszn.m3u8?node=3
@@ -485,8 +445,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 风云剧场,http://go.bkpcp.top/mg/fyjc
 风云剧场,http://j.s.bkpcp.top/jj/fyjc
 风云剧场,http://t.061899.xyz/tl/tl.php?id=fyjc
-风云剧场,http://k.61899.xyz/m.php?id=fyjc
-风云剧场,http://go.061899.xyz/mg/fyjc
 风云剧场,http://192.151.150.154/tvlive/fyjc.m3u8?node=1
 风云剧场,http://192.151.150.154/tvlive/fyjc.m3u8?node=2
 风云剧场,http://192.151.150.154/tvlive/fyjc.m3u8?node=3
@@ -509,8 +467,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 风云音乐,http://go.bkpcp.top/mg/fyyy
 风云音乐,http://j.s.bkpcp.top/jj/fyyy
 风云音乐,http://t.061899.xyz/tl/tl.php?id=fyyy
-风云音乐,http://k.61899.xyz/m.php?id=fyyy
-风云音乐,http://go.061899.xyz/mg/fyyy
 风云音乐,http://192.151.150.154/tvlive/fyyy.m3u8?node=1
 风云音乐,http://192.151.150.154/tvlive/fyyy.m3u8?node=2
 风云音乐,http://192.151.150.154/tvlive/fyyy.m3u8?node=3
@@ -533,8 +489,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 风云足球,http://go.bkpcp.top/mg/fyzq
 风云足球,http://j.s.bkpcp.top/jj/fyzq
 风云足球,http://t.061899.xyz/tl/tl.php?id=fyzq
-风云足球,http://k.61899.xyz/m.php?id=fyzq
-风云足球,http://go.061899.xyz/mg/fyzq
 风云足球,http://192.151.150.154/tvlive/fyzq.m3u8?node=1
 风云足球,http://192.151.150.154/tvlive/fyzq.m3u8?node=2
 风云足球,http://192.151.150.154/tvlive/fyzq.m3u8?node=3
@@ -557,8 +511,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 怀旧剧场,http://go.bkpcp.top/mg/hjjc
 怀旧剧场,http://j.s.bkpcp.top/jj/hjjc
 怀旧剧场,http://t.061899.xyz/tl/tl.php?id=hjjc
-怀旧剧场,http://k.61899.xyz/m.php?id=hjjc
-怀旧剧场,http://go.061899.xyz/mg/hjjc
 怀旧剧场,http://192.151.150.154/tvlive/hjjc.m3u8?node=1
 怀旧剧场,http://192.151.150.154/tvlive/hjjc.m3u8?node=2
 怀旧剧场,http://192.151.150.154/tvlive/hjjc.m3u8?node=3
@@ -581,8 +533,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 世界地理,http://go.bkpcp.top/mg/sjdl
 世界地理,http://j.s.bkpcp.top/jj/sjdl
 世界地理,http://t.061899.xyz/tl/tl.php?id=sjdl
-世界地理,http://k.61899.xyz/m.php?id=sjdl
-世界地理,http://go.061899.xyz/mg/sjdl
 世界地理,http://192.151.150.154/tvlive/sjdl.m3u8?node=1
 世界地理,http://192.151.150.154/tvlive/sjdl.m3u8?node=2
 世界地理,http://192.151.150.154/tvlive/sjdl.m3u8?node=3
@@ -605,8 +555,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 央视台球,http://go.bkpcp.top/mg/ystq
 央视台球,http://j.s.bkpcp.top/jj/ystq
 央视台球,http://t.061899.xyz/tl/tl.php?id=ystq
-央视台球,http://k.61899.xyz/m.php?id=ystq
-央视台球,http://go.061899.xyz/mg/ystq
 央视台球,http://192.151.150.154/tvlive/ystq.m3u8?node=1
 央视台球,http://192.151.150.154/tvlive/ystq.m3u8?node=2
 央视台球,http://192.151.150.154/tvlive/ystq.m3u8?node=3
@@ -629,8 +577,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 央视文化,http://go.bkpcp.top/mg/ysjp
 央视文化,http://j.s.bkpcp.top/jj/ysjp
 央视文化,http://t.061899.xyz/tl/tl.php?id=ysjp
-央视文化,http://k.61899.xyz/m.php?id=ysjp
-央视文化,http://go.061899.xyz/mg/ysjp
 央视文化,http://192.151.150.154/tvlive/ysjp.m3u8?node=1
 央视文化,http://192.151.150.154/tvlive/ysjp.m3u8?node=2
 央视文化,http://192.151.150.154/tvlive/ysjp.m3u8?node=3
@@ -653,8 +599,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 发现之旅,http://go.bkpcp.top/mg/fxzl
 发现之旅,http://j.s.bkpcp.top/jj/fxzl
 发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
-发现之旅,http://k.61899.xyz/m.php?id=fxzl
-发现之旅,http://go.061899.xyz/mg/fxzl
 发现之旅,http://192.151.150.154/tvlive/fxzl.m3u8?node=1
 发现之旅,http://192.151.150.154/tvlive/fxzl.m3u8?node=2
 发现之旅,http://192.151.150.154/tvlive/fxzl.m3u8?node=3
@@ -677,8 +621,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 兵器科技,http://go.bkpcp.top/mg/gfjs
 兵器科技,http://j.s.bkpcp.top/jj/gfjs
 兵器科技,http://t.061899.xyz/tl/tl.php?id=gfjs
-兵器科技,http://k.61899.xyz/m.php?id=gfjs
-兵器科技,http://go.061899.xyz/mg/gfjs
 兵器科技,http://192.151.150.154/tvlive/gfjs.m3u8?node=1
 兵器科技,http://192.151.150.154/tvlive/gfjs.m3u8?node=2
 兵器科技,http://192.151.150.154/tvlive/gfjs.m3u8?node=3
@@ -704,8 +646,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 老故事,http://go.bkpcp.top/mg/lgs
 老故事,http://j.s.bkpcp.top/jj/lgs
 老故事,http://t.061899.xyz/tl/tl.php?id=lgs
-老故事,http://k.61899.xyz/m.php?id=lgs
-老故事,http://go.061899.xyz/mg/lgs
 老故事,http://192.151.150.154/tvlive/lgs.m3u8?node=1
 老故事,http://192.151.150.154/tvlive/lgs.m3u8?node=2
 老故事,http://192.151.150.154/tvlive/lgs.m3u8?node=3
@@ -729,8 +669,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://j.s.bkpcp.top/jj/gdws
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-广东卫视,http://k.61899.xyz/m.php?id=gdws
-广东卫视,http://go.061899.xyz/mg/gdws
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=1
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=2
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=3
@@ -763,8 +701,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 广西卫视,http://go.bkpcp.top/mg/gxws
 广西卫视,http://j.s.bkpcp.top/jj/gxws
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
-广西卫视,http://k.61899.xyz/m.php?id=gxws
-广西卫视,http://go.061899.xyz/mg/gxws
 广西卫视,http://192.151.150.154/tvlive/gxwshd.m3u8?node=1
 广西卫视,http://192.151.150.154/tvlive/gxwshd.m3u8?node=2
 广西卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=广西卫视
@@ -792,8 +728,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 吉林卫视,http://go.bkpcp.top/mg/jlws
 吉林卫视,http://j.s.bkpcp.top/jj/jlws
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-吉林卫视,http://k.61899.xyz/m.php?id=jlws
-吉林卫视,http://go.061899.xyz/mg/jlws
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=1
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=2
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=3
@@ -816,8 +750,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://j.s.bkpcp.top/jj/szws
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-深圳卫视,http://k.61899.xyz/m.php?id=szws
-深圳卫视,http://go.061899.xyz/mg/szws
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=1
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=2
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=3
@@ -840,8 +772,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 东方卫视,http://go.bkpcp.top/mg/dfws
 东方卫视,http://j.s.bkpcp.top/jj/dfws
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-东方卫视,http://k.61899.xyz/m.php?id=dfws
-东方卫视,http://go.061899.xyz/mg/dfws
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=1
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=2
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=3
@@ -864,8 +794,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 江苏卫视,http://go.bkpcp.top/mg/jsws
 江苏卫视,http://j.s.bkpcp.top/jj/jsws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-江苏卫视,http://k.61899.xyz/m.php?id=jsws
-江苏卫视,http://go.061899.xyz/mg/jsws
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=1
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=2
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=3
@@ -888,8 +816,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://j.s.bkpcp.top/jj/jxws
 江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
-江西卫视,http://k.61899.xyz/m.php?id=jxws
-江西卫视,http://go.061899.xyz/mg/jxws
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=1
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=2
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=3
@@ -912,8 +838,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 四川卫视,http://go.bkpcp.top/mg/scws
 四川卫视,http://j.s.bkpcp.top/jj/scws
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
-四川卫视,http://k.61899.xyz/m.php?id=scws
-四川卫视,http://go.061899.xyz/mg/scws
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=1
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=2
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=3
@@ -936,8 +860,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 天津卫视,http://go.bkpcp.top/mg/tjws
 天津卫视,http://j.s.bkpcp.top/jj/tjws
 天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
-天津卫视,http://k.61899.xyz/m.php?id=tjws
-天津卫视,http://go.061899.xyz/mg/tjws
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=1
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=2
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=3
@@ -960,8 +882,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 贵州卫视,http://go.bkpcp.top/mg/gzws
 贵州卫视,http://j.s.bkpcp.top/jj/gzws
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-贵州卫视,http://k.61899.xyz/m.php?id=gzws
-贵州卫视,http://go.061899.xyz/mg/gzws
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=1
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=2
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=3
@@ -984,8 +904,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 河北卫视,http://go.bkpcp.top/mg/hbws
 河北卫视,http://j.s.bkpcp.top/jj/hbws
 河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-河北卫视,http://k.61899.xyz/m.php?id=hbws
-河北卫视,http://go.061899.xyz/mg/hbws
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=1
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=2
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=3
@@ -1008,8 +926,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 河南卫视,http://go.bkpcp.top/mg/hnws
 河南卫视,http://j.s.bkpcp.top/jj/hnws
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-河南卫视,http://k.61899.xyz/m.php?id=hnws
-河南卫视,http://go.061899.xyz/mg/hnws
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=1
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=2
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=3
@@ -1032,8 +948,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://j.s.bkpcp.top/jj/zjws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-浙江卫视,http://k.61899.xyz/m.php?id=zjws
-浙江卫视,http://go.061899.xyz/mg/zjws
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=1
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=2
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=3
@@ -1056,8 +970,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://j.s.bkpcp.top/jj/bjws
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-北京卫视,http://k.61899.xyz/m.php?id=bjws
-北京卫视,http://go.061899.xyz/mg/bjws
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=1
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=2
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=3
@@ -1080,8 +992,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 安徽卫视,http://go.bkpcp.top/mg/ahws
 安徽卫视,http://j.s.bkpcp.top/jj/ahws
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-安徽卫视,http://k.61899.xyz/m.php?id=ahws
-安徽卫视,http://go.061899.xyz/mg/ahws
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=1
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=2
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=3
@@ -1104,8 +1014,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 山东卫视,http://go.bkpcp.top/mg/sdws
 山东卫视,http://j.s.bkpcp.top/jj/sdws
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-山东卫视,http://k.61899.xyz/m.php?id=sdws
-山东卫视,http://go.061899.xyz/mg/sdws
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=1
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=2
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=3
@@ -1128,8 +1036,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-重庆卫视,http://k.61899.xyz/m.php?id=cqws
-重庆卫视,http://go.061899.xyz/mg/cqws
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=1
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=2
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=3
@@ -1152,8 +1058,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 陕西卫视,http://go.bkpcp.top/mg/sxws
 陕西卫视,http://j.s.bkpcp.top/jj/sxws
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
-陕西卫视,http://k.61899.xyz/m.php?id=sxws
-陕西卫视,http://go.061899.xyz/mg/sxws
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=1
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=2
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=3
@@ -1176,8 +1080,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 辽宁卫视,http://go.bkpcp.top/mg/lmws
 辽宁卫视,http://j.s.bkpcp.top/jj/lmws
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lmws
-辽宁卫视,http://k.61899.xyz/m.php?id=lmws
-辽宁卫视,http://go.061899.xyz/mg/lmws
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=1
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=2
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=3
@@ -1200,8 +1102,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 宁夏卫视,http://j.s.bkpcp.top/jj/nxws
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
-宁夏卫视,http://k.61899.xyz/m.php?id=nxws
-宁夏卫视,http://go.061899.xyz/mg/nxws
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=1
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=2
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=3
@@ -1224,8 +1124,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 青海卫视,http://go.bkpcp.top/mg/qhws
 青海卫视,http://j.s.bkpcp.top/jj/qhws
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
-青海卫视,http://k.61899.xyz/m.php?id=qhws
-青海卫视,http://go.061899.xyz/mg/qhws
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=1
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=2
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=3
@@ -1248,8 +1146,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 东南卫视,http://go.bkpcp.top/mg/dnws
 东南卫视,http://j.s.bkpcp.top/jj/dnws
 东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-东南卫视,http://k.61899.xyz/m.php?id=dnws
-东南卫视,http://go.061899.xyz/mg/dnws
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=1
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=2
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=3
@@ -1272,8 +1168,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 甘肃卫视,http://go.bkpcp.top/mg/gsws
 甘肃卫视,http://j.s.bkpcp.top/jj/gsws
 甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
-甘肃卫视,http://k.61899.xyz/m.php?id=gsws
-甘肃卫视,http://go.061899.xyz/mg/gsws
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=1
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=2
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=3
@@ -1296,8 +1190,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 三沙卫视,http://go.bkpcp.top/mg/ssws
 三沙卫视,http://j.s.bkpcp.top/jj/ssws
 三沙卫视,http://t.061899.xyz/tl/tl.php?id=ssws
-三沙卫视,http://k.61899.xyz/m.php?id=ssws
-三沙卫视,http://go.061899.xyz/mg/ssws
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=1
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=2
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=3
@@ -1320,8 +1212,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 西藏卫视,http://go.bkpcp.top/mg/xzws
 西藏卫视,http://j.s.bkpcp.top/jj/xzws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-西藏卫视,http://k.61899.xyz/m.php?id=xzws
-西藏卫视,http://go.061899.xyz/mg/xzws
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=1
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=2
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=3
@@ -1344,8 +1234,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 新疆卫视,http://go.bkpcp.top/mg/xjws
 新疆卫视,http://j.s.bkpcp.top/jj/xjws
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-新疆卫视,http://k.61899.xyz/m.php?id=xjws
-新疆卫视,http://go.061899.xyz/mg/xjws
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=1
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=2
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=3
@@ -1368,8 +1256,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 云南卫视,http://go.bkpcp.top/mg/ynws
 云南卫视,http://j.s.bkpcp.top/jj/ynws
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
-云南卫视,http://k.61899.xyz/m.php?id=ynws
-云南卫视,http://go.061899.xyz/mg/ynws
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=1
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=2
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=3
@@ -1392,8 +1278,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 厦门卫视,http://go.bkpcp.top/mg/xmws
 厦门卫视,http://j.s.bkpcp.top/jj/xmws
 厦门卫视,http://t.061899.xyz/tl/tl.php?id=xmws
-厦门卫视,http://k.61899.xyz/m.php?id=xmws
-厦门卫视,http://go.061899.xyz/mg/xmws
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=1
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=2
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=3
@@ -1416,8 +1300,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 延边卫视,http://go.bkpcp.top/mg/ybws
 延边卫视,http://j.s.bkpcp.top/jj/ybws
 延边卫视,http://t.061899.xyz/tl/tl.php?id=ybws
-延边卫视,http://k.61899.xyz/m.php?id=ybws
-延边卫视,http://go.061899.xyz/mg/ybws
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=1
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=2
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=3
@@ -1440,8 +1322,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 凤凰卫视,http://go.bkpcp.top/mg/fhws
 凤凰卫视,http://j.s.bkpcp.top/jj/fhws
 凤凰卫视,http://t.061899.xyz/tl/tl.php?id=fhws
-凤凰卫视,http://k.61899.xyz/m.php?id=fhws
-凤凰卫视,http://go.061899.xyz/mg/fhws
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=1
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=2
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=3
@@ -1464,8 +1344,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 香港卫视,http://go.bkpcp.top/mg/hkws
 香港卫视,http://j.s.bkpcp.top/jj/hkws
 香港卫视,http://t.061899.xyz/tl/tl.php?id=hkws
-香港卫视,http://k.61899.xyz/m.php?id=hkws
-香港卫视,http://go.061899.xyz/mg/hkws
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=1
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=2
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=3
@@ -1488,8 +1366,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,http://j.s.bkpcp.top/jj/btws
 兵团卫视,http://t.061899.xyz/tl/tl.php?id=btws
-兵团卫视,http://k.61899.xyz/m.php?id=btws
-兵团卫视,http://go.061899.xyz/mg/btws
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=1
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=2
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=3
@@ -1512,8 +1388,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 星空卫视,http://go.bkpcp.top/mg/xkws
 星空卫视,http://j.s.bkpcp.top/jj/xkws
 星空卫视,http://t.061899.xyz/tl/tl.php?id=xkws
-星空卫视,http://k.61899.xyz/m.php?id=xkws
-星空卫视,http://go.061899.xyz/mg/xkws
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=1
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=2
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=3
@@ -1536,8 +1410,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 安多卫视,http://go.bkpcp.top/mg/adws
 安多卫视,http://j.s.bkpcp.top/jj/adws
 安多卫视,http://t.061899.xyz/tl/tl.php?id=adws
-安多卫视,http://k.61899.xyz/m.php?id=adws
-安多卫视,http://go.061899.xyz/mg/adws
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=1
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=2
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=3
@@ -1560,8 +1432,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 康巴卫视,http://go.bkpcp.top/mg/kbws
 康巴卫视,http://j.s.bkpcp.top/jj/kbws
 康巴卫视,http://t.061899.xyz/tl/tl.php?id=kbws
-康巴卫视,http://k.61899.xyz/m.php?id=kbws
-康巴卫视,http://go.061899.xyz/mg/kbws
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=1
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=2
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=3
@@ -1584,8 +1454,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://j.s.bkpcp.top/jj/hinws
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-海南卫视,http://k.61899.xyz/m.php?id=hinws
-海南卫视,http://go.061899.xyz/mg/hinws
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=1
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=2
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=3
@@ -1608,8 +1476,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://j.s.bkpcp.top/jj/hubws
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-湖北卫视,http://k.61899.xyz/m.php?id=hubws
-湖北卫视,http://go.061899.xyz/mg/hubws
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=1
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=2
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=3
@@ -1632,8 +1498,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 湖南卫视,http://go.bkpcp.top/mg/hunws
 湖南卫视,http://j.s.bkpcp.top/jj/hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-湖南卫视,http://k.61899.xyz/m.php?id=hunws
-湖南卫视,http://go.061899.xyz/mg/hunws
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=1
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=2
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=3
@@ -1656,8 +1520,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 山西卫视,http://go.bkpcp.top/mg/sxiws
 山西卫视,http://j.s.bkpcp.top/jj/sxiws
 山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
-山西卫视,http://k.61899.xyz/m.php?id=sxiws
-山西卫视,http://go.061899.xyz/mg/sxiws
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=1
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=2
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=3
@@ -1680,8 +1542,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 哈尔滨卫视,http://go.bkpcp.top/mg/hrbws
 哈尔滨卫视,http://j.s.bkpcp.top/jj/hrbws
 哈尔滨卫视,http://t.061899.xyz/tl/tl.php?id=hrbws
-哈尔滨卫视,http://k.61899.xyz/m.php?id=hrbws
-哈尔滨卫视,http://go.061899.xyz/mg/hrbws
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=1
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=2
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=3
@@ -1704,8 +1564,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
 黑龙江卫视,http://j.s.bkpcp.top/jj/hljws
 黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-黑龙江卫视,http://k.61899.xyz/m.php?id=hljws
-黑龙江卫视,http://go.061899.xyz/mg/hljws
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=1
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=2
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=3
@@ -1728,8 +1586,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 内蒙古卫视,http://j.s.bkpcp.top/jj/nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
-内蒙古卫视,http://k.61899.xyz/m.php?id=nmgws
-内蒙古卫视,http://go.061899.xyz/mg/nmgws
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=1
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=2
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=3
@@ -1752,8 +1608,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 大湾区卫视,http://j.s.bkpcp.top/jj/dwqws
 大湾区卫视,http://t.061899.xyz/tl/tl.php?id=dwqws
-大湾区卫视,http://k.61899.xyz/m.php?id=dwqws
-大湾区卫视,http://go.061899.xyz/mg/dwqws
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=1
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=2
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=3
@@ -1776,8 +1630,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 海峡卫视,http://go.bkpcp.top/mg/hxws
 海峡卫视,http://j.s.bkpcp.top/jj/hxws
 海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
-海峡卫视,http://k.61899.xyz/m.php?id=hxws
-海峡卫视,http://go.061899.xyz/mg/hxws
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=1
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=2
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=3
@@ -1800,8 +1652,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 厦门卫视,http://go.bkpcp.top/mg/xmws
 厦门卫视,http://j.s.bkpcp.top/jj/xmws
 厦门卫视,http://t.061899.xyz/tl/tl.php?id=xmws
-厦门卫视,http://k.61899.xyz/m.php?id=xmws
-厦门卫视,http://go.061899.xyz/mg/xmws
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=1
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=2
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=3
@@ -1824,8 +1674,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 农林卫视,http://go.bkpcp.top/mg/nlws
 农林卫视,http://j.s.bkpcp.top/jj/nlws
 农林卫视,http://t.061899.xyz/tl/tl.php?id=nlws
-农林卫视,http://k.61899.xyz/m.php?id=nlws
-农林卫视,http://go.061899.xyz/mg/nlws
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=1
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=2
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=3
@@ -1848,8 +1696,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 南方影视,http://go.bkpcp.top/mg/nfys
 南方影视,http://j.s.bkpcp.top/jj/nfys
 南方影视,http://t.061899.xyz/tl/tl.php?id=nfys
-南方影视,http://k.61899.xyz/m.php?id=nfys
-南方影视,http://go.061899.xyz/mg/nfys
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=1
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=2
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=3
@@ -1872,8 +1718,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 广州影视,http://go.bkpcp.top/mg/gzys
 广州影视,http://j.s.bkpcp.top/jj/gzys
 广州影视,http://t.061899.xyz/tl/tl.php?id=gzys
-广州影视,http://k.61899.xyz/m.php?id=gzys
-广州影视,http://go.061899.xyz/mg/gzys
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=1
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=2
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=3
@@ -1896,8 +1740,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 广东影视,http://go.bkpcp.top/mg/gdys
 广东影视,http://j.s.bkpcp.top/jj/gdys
 广东影视,http://t.061899.xyz/tl/tl.php?id=gdys
-广东影视,http://k.61899.xyz/m.php?id=gdys
-广东影视,http://go.061899.xyz/mg/gdys
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=1
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=2
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=3
@@ -1920,8 +1762,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 广西影视,http://go.bkpcp.top/mg/gxys
 广西影视,http://j.s.bkpcp.top/jj/gxys
 广西影视,http://t.061899.xyz/tl/tl.php?id=gxys
-广西影视,http://k.61899.xyz/m.php?id=gxys
-广西影视,http://go.061899.xyz/mg/gxys
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=1
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=2
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=3
@@ -1944,8 +1784,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 东方影视,http://go.bkpcp.top/mg/dfys
 东方影视,http://j.s.bkpcp.top/jj/dfys
 东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
-东方影视,http://k.61899.xyz/m.php?id=dfys
-东方影视,http://go.061899.xyz/mg/dfys
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=1
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=2
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=3
@@ -1968,8 +1806,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 南宁影视,http://go.bkpcp.top/mg/nnys
 南宁影视,http://j.s.bkpcp.top/jj/nnys
 南宁影视,http://t.061899.xyz/tl/tl.php?id=nnys
-南宁影视,http://k.61899.xyz/m.php?id=nnys
-南宁影视,http://go.061899.xyz/mg/nnys
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=1
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=2
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=3
@@ -1994,8 +1830,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 北京影视,http://go.bkpcp.top/mg/bjys
 北京影视,http://j.s.bkpcp.top/jj/bjys
 北京影视,http://t.061899.xyz/tl/tl.php?id=bjys
-北京影视,http://k.61899.xyz/m.php?id=bjys
-北京影视,http://go.061899.xyz/mg/bjys
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=1
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=2
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=3
@@ -2018,8 +1852,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 长沙影视,http://go.bkpcp.top/mg/csys
 长沙影视,http://j.s.bkpcp.top/jj/csys
 长沙影视,http://t.061899.xyz/tl/tl.php?id=csys
-长沙影视,http://k.61899.xyz/m.php?id=csys
-长沙影视,http://go.061899.xyz/mg/csys
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=1
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=2
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=3
@@ -2042,8 +1874,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 江苏影视,http://go.bkpcp.top/mg/jsys
 江苏影视,http://j.s.bkpcp.top/jj/jsys
 江苏影视,http://t.061899.xyz/tl/tl.php?id=jsys
-江苏影视,http://k.61899.xyz/m.php?id=jsys
-江苏影视,http://go.061899.xyz/mg/jsys
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=1
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=2
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=3
@@ -2066,8 +1896,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 佛山影视,http://go.bkpcp.top/mg/fsys
 佛山影视,http://j.s.bkpcp.top/jj/fsys
 佛山影视,http://t.061899.xyz/tl/tl.php?id=fsys
-佛山影视,http://k.61899.xyz/m.php?id=fsys
-佛山影视,http://go.061899.xyz/mg/fsys
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=1
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=2
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=3
@@ -2090,8 +1918,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 平泉影视,http://go.bkpcp.top/mg/pqys
 平泉影视,http://j.s.bkpcp.top/jj/pqys
 平泉影视,http://t.061899.xyz/tl/tl.php?id=pqys
-平泉影视,http://k.61899.xyz/m.php?id=pqys
-平泉影视,http://go.061899.xyz/mg/pqys
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=1
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=2
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=3
@@ -2114,8 +1940,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 济南影视,http://go.bkpcp.top/mg/jnys
 济南影视,http://j.s.bkpcp.top/jj/jnys
 济南影视,http://t.061899.xyz/tl/tl.php?id=jnys
-济南影视,http://k.61899.xyz/m.php?id=jnys
-济南影视,http://go.061899.xyz/mg/jnys
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=1
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=2
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=3
@@ -2138,8 +1962,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 山东影视,http://go.bkpcp.top/mg/sdys
 山东影视,http://j.s.bkpcp.top/jj/sdys
 山东影视,http://t.061899.xyz/tl/tl.php?id=sdys
-山东影视,http://k.61899.xyz/m.php?id=sdys
-山东影视,http://go.061899.xyz/mg/sdys
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=1
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=2
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=3
@@ -2162,8 +1984,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 四川影视,http://go.bkpcp.top/mg/scys
 四川影视,http://j.s.bkpcp.top/jj/scys
 四川影视,http://t.061899.xyz/tl/tl.php?id=scys
-四川影视,http://k.61899.xyz/m.php?id=scys
-四川影视,http://go.061899.xyz/mg/scys
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=1
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=2
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=3
@@ -2186,8 +2006,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 成都影视,http://go.bkpcp.top/mg/cdys
 成都影视,http://j.s.bkpcp.top/jj/cdys
 成都影视,http://t.061899.xyz/tl/tl.php?id=cdys
-成都影视,http://k.61899.xyz/m.php?id=cdys
-成都影视,http://go.061899.xyz/mg/cdys
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=1
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=2
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=3
@@ -2210,8 +2028,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 上虞影视,http://go.bkpcp.top/mg/syys
 上虞影视,http://j.s.bkpcp.top/jj/syys
 上虞影视,http://t.061899.xyz/tl/tl.php?id=syys
-上虞影视,http://k.61899.xyz/m.php?id=syys
-上虞影视,http://go.061899.xyz/mg/syys
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=1
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=2
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=3
@@ -2234,8 +2050,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 安徽影视,http://go.bkpcp.top/mg/ahys
 安徽影视,http://j.s.bkpcp.top/jj/ahys
 安徽影视,http://t.061899.xyz/tl/tl.php?id=ahys
-安徽影视,http://k.61899.xyz/m.php?id=ahys
-安徽影视,http://go.061899.xyz/mg/ahys
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=1
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=2
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=3
@@ -2258,8 +2072,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 云南影视,http://go.bkpcp.top/mg/ynys
 云南影视,http://j.s.bkpcp.top/jj/ynys
 云南影视,http://t.061899.xyz/tl/tl.php?id=ynys
-云南影视,http://k.61899.xyz/m.php?id=ynys
-云南影视,http://go.061899.xyz/mg/ynys
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=1
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=2
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=3
@@ -2282,8 +2094,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 无锡影视,http://go.bkpcp.top/mg/wxys
 无锡影视,http://j.s.bkpcp.top/jj/wxys
 无锡影视,http://t.061899.xyz/tl/tl.php?id=wxys
-无锡影视,http://k.61899.xyz/m.php?id=wxys
-无锡影视,http://go.061899.xyz/mg/wxys
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=1
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=2
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=3
@@ -2306,8 +2116,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 吉林影视,http://go.bkpcp.top/mg/jlys
 吉林影视,http://j.s.bkpcp.top/jj/jlys
 吉林影视,http://t.061899.xyz/tl/tl.php?id=jlys
-吉林影视,http://k.61899.xyz/m.php?id=jlys
-吉林影视,http://go.061899.xyz/mg/jlys
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=1
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=2
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=3
@@ -2330,8 +2138,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 陕西影视,http://go.bkpcp.top/mg/sxys
 陕西影视,http://j.s.bkpcp.top/jj/sxys
 陕西影视,http://t.061899.xyz/tl/tl.php?id=sxys
-陕西影视,http://k.61899.xyz/m.php?id=sxys
-陕西影视,http://go.061899.xyz/mg/sxys
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=1
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=2
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=3
@@ -2354,8 +2160,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 辽宁影视,http://go.bkpcp.top/mg/lnys
 辽宁影视,http://j.s.bkpcp.top/jj/lnys
 辽宁影视,http://t.061899.xyz/tl/tl.php?id=lnys
-辽宁影视,http://k.61899.xyz/m.php?id=lnys
-辽宁影视,http://go.061899.xyz/mg/lnys
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=1
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=2
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=3
@@ -2378,8 +2182,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 精彩影视,http://go.bkpcp.top/mg/jcys
 精彩影视,http://j.s.bkpcp.top/jj/jcys
 精彩影视,http://t.061899.xyz/tl/tl.php?id=jcys
-精彩影视,http://k.61899.xyz/m.php?id=jcys
-精彩影视,http://go.061899.xyz/mg/jcys
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=1
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=2
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=3
@@ -2402,8 +2204,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 海南影视,http://go.bkpcp.top/mg/hinys
 海南影视,http://j.s.bkpcp.top/jj/hinys
 海南影视,http://t.061899.xyz/tl/tl.php?id=hinys
-海南影视,http://k.61899.xyz/m.php?id=hinys
-海南影视,http://go.061899.xyz/mg/hinys
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=1
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=2
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=3
@@ -2426,8 +2226,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 湖北影视,http://go.bkpcp.top/mg/hubys
 湖北影视,http://j.s.bkpcp.top/jj/hubys
 湖北影视,http://t.061899.xyz/tl/tl.php?id=hubys
-湖北影视,http://k.61899.xyz/m.php?id=hubys
-湖北影视,http://go.061899.xyz/mg/hubys
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=1
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=2
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=3
@@ -2450,8 +2248,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 湖南视剧,http://go.bkpcp.top/mg/hunys
 湖南视剧,http://j.s.bkpcp.top/jj/hunys
 湖南视剧,http://t.061899.xyz/tl/tl.php?id=hunys
-湖南视剧,http://k.61899.xyz/m.php?id=hunys
-湖南视剧,http://go.061899.xyz/mg/hunys
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=1
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=2
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=3
@@ -2474,8 +2270,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 山西影视,http://go.bkpcp.top/mg/sxiys
 山西影视,http://j.s.bkpcp.top/jj/sxiys
 山西影视,http://t.061899.xyz/tl/tl.php?id=sxiys
-山西影视,http://k.61899.xyz/m.php?id=sxiys
-山西影视,http://go.061899.xyz/mg/sxiys
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=1
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=2
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=3
@@ -2498,8 +2292,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 北京影院,http://go.bkpcp.top/mg/bjyy
 北京影院,http://j.s.bkpcp.top/jj/bjyy
 北京影院,http://t.061899.xyz/tl/tl.php?id=bjyy
-北京影院,http://k.61899.xyz/m.php?id=bjyy
-北京影院,http://go.061899.xyz/mg/bjyy
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=1
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=2
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=3
@@ -2522,8 +2314,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 福州影院,http://go.bkpcp.top/mg/fzyy
 福州影院,http://j.s.bkpcp.top/jj/fzyy
 福州影院,http://t.061899.xyz/tl/tl.php?id=fzyy
-福州影院,http://k.61899.xyz/m.php?id=fzyy
-福州影院,http://go.061899.xyz/mg/fzyy
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=1
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=2
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=3
@@ -2546,8 +2336,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 吉林影院,http://go.bkpcp.top/mg/jlyy
 吉林影院,http://j.s.bkpcp.top/jj/jlyy
 吉林影院,http://t.061899.xyz/tl/tl.php?id=jlyy
-吉林影院,http://k.61899.xyz/m.php?id=jlyy
-吉林影院,http://go.061899.xyz/mg/jlyy
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=1
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=2
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=3
@@ -2570,8 +2358,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 山西影院,http://go.bkpcp.top/mg/sixyy
 山西影院,http://j.s.bkpcp.top/jj/sixyy
 山西影院,http://t.061899.xyz/tl/tl.php?id=sixyy
-山西影院,http://k.61899.xyz/m.php?id=sixyy
-山西影院,http://go.061899.xyz/mg/sixyy
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=1
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=2
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=3
@@ -2594,8 +2380,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 黑龙江影视,http://go.bkpcp.top/mg/sixyy
 黑龙江影视,http://j.s.bkpcp.top/jj/sixyy
 黑龙江影视,http://t.061899.xyz/tl/tl.php?id=sixyy
-黑龙江影视,http://k.61899.xyz/m.php?id=sixyy
-黑龙江影视,http://go.061899.xyz/mg/sixyy
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=1
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=2
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=3
@@ -2618,8 +2402,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 哈尔滨影视,http://go.bkpcp.top/mg/hrbys
 哈尔滨影视,http://j.s.bkpcp.top/jj/hrbys
 哈尔滨影视,http://t.061899.xyz/tl/tl.php?id=hrbys
-哈尔滨影视,http://k.61899.xyz/m.php?id=hrbys
-哈尔滨影视,http://go.061899.xyz/mg/hrbys
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=1
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=2
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=3
@@ -2642,8 +2424,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 深圳电视剧,http://go.bkpcp.top/mg/szdsj
 深圳电视剧,http://j.s.bkpcp.top/jj/szdsj
 深圳电视剧,http://t.061899.xyz/tl/tl.php?id=szdsj
-深圳电视剧,http://k.61899.xyz/m.php?id=szdsj
-深圳电视剧,http://go.061899.xyz/mg/szdsj
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=1
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=2
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=3
@@ -2666,8 +2446,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 湖南电视剧,http://go.bkpcp.top/mg/hundsj
 湖南电视剧,http://j.s.bkpcp.top/jj/hundsj
 湖南电视剧,http://t.061899.xyz/tl/tl.php?id=hundsj
-湖南电视剧,http://k.61899.xyz/m.php?id=hundsj
-湖南电视剧,http://go.061899.xyz/mg/hundsj
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=1
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=2
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=3
@@ -2690,8 +2468,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 武汉电视剧,http://go.bkpcp.top/mg/whdsj
 武汉电视剧,http://j.s.bkpcp.top/jj/whdsj
 武汉电视剧,http://t.061899.xyz/tl/tl.php?id=whdsj
-武汉电视剧,http://k.61899.xyz/m.php?id=whdsj
-武汉电视剧,http://go.061899.xyz/mg/whdsj
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=1
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=2
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=3
@@ -2714,8 +2490,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 福建电视剧,http://go.bkpcp.top/mg/fjdsj
 福建电视剧,http://j.s.bkpcp.top/jj/fjdsj
 福建电视剧,http://t.061899.xyz/tl/tl.php?id=fjdsj
-福建电视剧,http://k.61899.xyz/m.php?id=fjdsj
-福建电视剧,http://go.061899.xyz/mg/fjdsj
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=1
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=2
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=3
@@ -2738,8 +2512,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 辽宁影视剧,http://go.bkpcp.top/mg/lndsj
 辽宁影视剧,http://j.s.bkpcp.top/jj/lndsj
 辽宁影视剧,http://t.061899.xyz/tl/tl.php?id=lndsj
-辽宁影视剧,http://k.61899.xyz/m.php?id=lndsj
-辽宁影视剧,http://go.061899.xyz/mg/lndsj
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=1
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=2
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=3
@@ -2762,8 +2534,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 黑龙江视剧,http://go.bkpcp.top/mg/hljdsj
 黑龙江视剧,http://j.s.bkpcp.top/jj/hljdsj
 黑龙江视剧,http://t.061899.xyz/tl/tl.php?id=hljdsj
-黑龙江视剧,http://k.61899.xyz/m.php?id=hljdsj
-黑龙江视剧,http://go.061899.xyz/mg/hljdsj
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=1
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=2
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=3
@@ -2786,8 +2556,6 @@ CCTV5+,http://207.56.13.146:81/daili/cctv5p.m3u8?line=2
 哈尔滨视剧,http://go.bkpcp.top/mg/hrbdsj
 哈尔滨视剧,http://j.s.bkpcp.top/jj/hrbdsj
 哈尔滨视剧,http://t.061899.xyz/tl/tl.php?id=hrbdsj
-哈尔滨视剧,http://k.61899.xyz/m.php?id=hrbdsj
-哈尔滨视剧,http://go.061899.xyz/mg/hrbdsj
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=1
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=2
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=3
@@ -2814,8 +2582,6 @@ CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV1,http://j.s.bkpcp.top/jj/cctv1
 CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV1,http://k.61899.xyz/m.php?id=cctv1
-CCTV1,http://go.061899.xyz/mg/cctv1
 CCTV1,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV1,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV1,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2838,8 +2604,6 @@ CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV2,http://j.s.bkpcp.top/jj/cctv2
 CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV2,http://k.61899.xyz/m.php?id=cctv2
-CCTV2,http://go.061899.xyz/mg/cctv2
 CCTV2,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV2,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV2,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2862,8 +2626,6 @@ CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 CCTV3,http://go.bkpcp.top/mg/cctv3
 CCTV3,http://j.s.bkpcp.top/jj/cctv3
 CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV3,http://k.61899.xyz/m.php?id=cctv3
-CCTV3,http://go.061899.xyz/mg/cctv3
 CCTV3,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV3,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV3,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2886,8 +2648,6 @@ CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 CCTV4,http://go.bkpcp.top/mg/cctv4
 CCTV4,http://j.s.bkpcp.top/jj/cctv4
 CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV4,http://k.61899.xyz/m.php?id=cctv4
-CCTV4,http://go.061899.xyz/mg/cctv4
 CCTV4,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV4,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV4,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2910,8 +2670,6 @@ CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://j.s.bkpcp.top/jj/cctv5
 CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5,http://k.61899.xyz/m.php?id=cctv5
-CCTV5,http://go.061899.xyz/mg/cctv5
 CCTV5,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV5,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV5,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2934,8 +2692,6 @@ CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
 CCTV6,http://go.bkpcp.top/mg/cctv6
 CCTV6,http://j.s.bkpcp.top/jj/cctv6
 CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV6,http://k.61899.xyz/m.php?id=cctv6
-CCTV6,http://go.061899.xyz/mg/cctv6
 CCTV6,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV6,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV6,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2958,8 +2714,6 @@ CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
 CCTV7,http://go.bkpcp.top/mg/cctv7
 CCTV7,http://j.s.bkpcp.top/jj/cctv7
 CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV7,http://k.61899.xyz/m.php?id=cctv7
-CCTV7,http://go.061899.xyz/mg/cctv7
 CCTV7,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV7,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV7,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -2982,8 +2736,6 @@ CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
 CCTV8,http://go.bkpcp.top/mg/cctv8
 CCTV8,http://j.s.bkpcp.top/jj/cctv8
 CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV8,http://k.61899.xyz/m.php?id=cctv8
-CCTV8,http://go.061899.xyz/mg/cctv8
 CCTV8,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV8,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV8,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3006,8 +2758,6 @@ CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
 CCTV9,http://go.bkpcp.top/mg/cctv9
 CCTV9,http://j.s.bkpcp.top/jj/cctv9
 CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV9,http://k.61899.xyz/m.php?id=cctv9
-CCTV9,http://go.061899.xyz/mg/cctv9
 CCTV9,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV9,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV9,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3030,8 +2780,6 @@ CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 CCTV10,http://go.bkpcp.top/mg/cctv10
 CCTV10,http://j.s.bkpcp.top/jj/cctv10
 CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV10,http://k.61899.xyz/m.php?id=cctv10
-CCTV10,http://go.061899.xyz/mg/cctv10
 CCTV10,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV10,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV10,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3054,8 +2802,6 @@ CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
 CCTV11,http://go.bkpcp.top/mg/cctv11
 CCTV11,http://j.s.bkpcp.top/jj/cctv11
 CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV11,http://k.61899.xyz/m.php?id=cctv11
-CCTV11,http://go.061899.xyz/mg/cctv11
 CCTV11,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV11,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV11,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3078,8 +2824,6 @@ CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
 CCTV12,http://go.bkpcp.top/mg/cctv12
 CCTV12,http://j.s.bkpcp.top/jj/cctv12
 CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV12,http://k.61899.xyz/m.php?id=cctv12
-CCTV12,http://go.061899.xyz/mg/cctv12
 CCTV12,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV12,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV12,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3102,8 +2846,6 @@ CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
 CCTV13,http://go.bkpcp.top/mg/cctv13
 CCTV13,http://j.s.bkpcp.top/jj/cctv13
 CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV13,http://k.61899.xyz/m.php?id=cctv13
-CCTV13,http://go.061899.xyz/mg/cctv13
 CCTV13,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV13,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV13,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3126,8 +2868,6 @@ CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV14,http://j.s.bkpcp.top/jj/cctv14
 CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV14,http://k.61899.xyz/m.php?id=cctv14
-CCTV14,http://go.061899.xyz/mg/cctv14
 CCTV14,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV14,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV14,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3150,8 +2890,6 @@ CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV15,http://j.s.bkpcp.top/jj/cctv15
 CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV15,http://k.61899.xyz/m.php?id=cctv15
-CCTV15,http://go.061899.xyz/mg/cctv15
 CCTV15,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV15,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV15,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3174,8 +2912,6 @@ CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV16,http://j.s.bkpcp.top/jj/cctv16
 CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV16,http://k.61899.xyz/m.php?id=cctv16
-CCTV16,http://go.061899.xyz/mg/cctv16
 CCTV16,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV16,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV16,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3198,8 +2934,6 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV17,http://j.s.bkpcp.top/jj/cctv17
 CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
-CCTV17,http://k.61899.xyz/m.php?id=cctv17
-CCTV17,http://go.061899.xyz/mg/cctv17
 CCTV17,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV17,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV17,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3222,8 +2956,6 @@ CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5+
 CCTV5+,http://go.bkpcp.top/mg/cctv5+
 CCTV5+,http://j.s.bkpcp.top/jj/cctv5+
 CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5+
-CCTV5+,http://k.61899.xyz/m.php?id=cctv5+
-CCTV5+,http://go.061899.xyz/mg/cctv5+
 CCTV5+,http://192.151.150.154/tvlive/.m3u8?node=1
 CCTV5+,http://192.151.150.154/tvlive/.m3u8?node=2
 CCTV5+,http://192.151.150.154/tvlive/.m3u8?node=3
@@ -3248,8 +2980,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://j.s.bkpcp.top/jj/gdws
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-广东卫视,http://k.61899.xyz/m.php?id=gdws
-广东卫视,http://go.061899.xyz/mg/gdws
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=1
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=2
 广东卫视,http://192.151.150.154/tvlive/gdwshd.m3u8?node=3
@@ -3272,8 +3002,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 广西卫视,http://go.bkpcp.top/mg/gxws
 广西卫视,http://j.s.bkpcp.top/jj/gxws
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
-广西卫视,http://k.61899.xyz/m.php?id=gxws
-广西卫视,http://go.061899.xyz/mg/gxws
 广西卫视,http://192.151.150.154/tvlive/gxwshd.m3u8?node=1
 广西卫视,http://192.151.150.154/tvlive/gxwshd.m3u8?node=2
 广西卫视,http://192.151.150.154/tvlive/gxwshd.m3u8?node=3
@@ -3296,8 +3024,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 吉林卫视,http://go.bkpcp.top/mg/jlws
 吉林卫视,http://j.s.bkpcp.top/jj/jlws
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-吉林卫视,http://k.61899.xyz/m.php?id=jlws
-吉林卫视,http://go.061899.xyz/mg/jlws
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=1
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=2
 吉林卫视,http://192.151.150.154/tvlive/jlwshd.m3u8?node=3
@@ -3320,8 +3046,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://j.s.bkpcp.top/jj/szws
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-深圳卫视,http://k.61899.xyz/m.php?id=szws
-深圳卫视,http://go.061899.xyz/mg/szws
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=1
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=2
 深圳卫视,http://192.151.150.154/tvlive/szwshd.m3u8?node=3
@@ -3344,8 +3068,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 东方卫视,http://go.bkpcp.top/mg/dfws
 东方卫视,http://j.s.bkpcp.top/jj/dfws
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-东方卫视,http://k.61899.xyz/m.php?id=dfws
-东方卫视,http://go.061899.xyz/mg/dfws
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=1
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=2
 东方卫视,http://192.151.150.154/tvlive/dfwshd.m3u8?node=3
@@ -3368,8 +3090,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 江苏卫视,http://go.bkpcp.top/mg/jsws
 江苏卫视,http://j.s.bkpcp.top/jj/jsws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-江苏卫视,http://k.61899.xyz/m.php?id=jsws
-江苏卫视,http://go.061899.xyz/mg/jsws
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=1
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=2
 江苏卫视,http://192.151.150.154/tvlive/jswshd.m3u8?node=3
@@ -3392,8 +3112,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://j.s.bkpcp.top/jj/jxws
 江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
-江西卫视,http://k.61899.xyz/m.php?id=jxws
-江西卫视,http://go.061899.xyz/mg/jxws
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=1
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=2
 江西卫视,http://192.151.150.154/tvlive/jxwshd.m3u8?node=3
@@ -3416,8 +3134,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 四川卫视,http://go.bkpcp.top/mg/scws
 四川卫视,http://j.s.bkpcp.top/jj/scws
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
-四川卫视,http://k.61899.xyz/m.php?id=scws
-四川卫视,http://go.061899.xyz/mg/scws
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=1
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=2
 四川卫视,http://192.151.150.154/tvlive/scwshd.m3u8?node=3
@@ -3440,8 +3156,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 天津卫视,http://go.bkpcp.top/mg/tjws
 天津卫视,http://j.s.bkpcp.top/jj/tjws
 天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
-天津卫视,http://k.61899.xyz/m.php?id=tjws
-天津卫视,http://go.061899.xyz/mg/tjws
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=1
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=2
 天津卫视,http://192.151.150.154/tvlive/tjwshd.m3u8?node=3
@@ -3464,8 +3178,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 贵州卫视,http://go.bkpcp.top/mg/gzws
 贵州卫视,http://j.s.bkpcp.top/jj/gzws
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-贵州卫视,http://k.61899.xyz/m.php?id=gzws
-贵州卫视,http://go.061899.xyz/mg/gzws
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=1
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=2
 贵州卫视,http://192.151.150.154/tvlive/gzwshd.m3u8?node=3
@@ -3488,8 +3200,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 河北卫视,http://go.bkpcp.top/mg/hbws
 河北卫视,http://j.s.bkpcp.top/jj/hbws
 河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-河北卫视,http://k.61899.xyz/m.php?id=hbws
-河北卫视,http://go.061899.xyz/mg/hbws
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=1
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=2
 河北卫视,http://192.151.150.154/tvlive/hewshd.m3u8?node=3
@@ -3512,8 +3222,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 河南卫视,http://go.bkpcp.top/mg/hnws
 河南卫视,http://j.s.bkpcp.top/jj/hnws
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-河南卫视,http://k.61899.xyz/m.php?id=hnws
-河南卫视,http://go.061899.xyz/mg/hnws
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=1
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=2
 河南卫视,http://192.151.150.154/tvlive/hawshd.m3u8?node=3
@@ -3536,8 +3244,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://j.s.bkpcp.top/jj/zjws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-浙江卫视,http://k.61899.xyz/m.php?id=zjws
-浙江卫视,http://go.061899.xyz/mg/zjws
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=1
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=2
 浙江卫视,http://192.151.150.154/tvlive/zjwshd.m3u8?node=3
@@ -3560,8 +3266,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://j.s.bkpcp.top/jj/bjws
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-北京卫视,http://k.61899.xyz/m.php?id=bjws
-北京卫视,http://go.061899.xyz/mg/bjws
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=1
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=2
 北京卫视,http://192.151.150.154/tvlive/bjwshd.m3u8?node=3
@@ -3584,8 +3288,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 安徽卫视,http://go.bkpcp.top/mg/ahws
 安徽卫视,http://j.s.bkpcp.top/jj/ahws
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-安徽卫视,http://k.61899.xyz/m.php?id=ahws
-安徽卫视,http://go.061899.xyz/mg/ahws
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=1
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=2
 安徽卫视,http://192.151.150.154/tvlive/ahwshd.m3u8?node=3
@@ -3608,8 +3310,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 山东卫视,http://go.bkpcp.top/mg/sdws
 山东卫视,http://j.s.bkpcp.top/jj/sdws
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-山东卫视,http://k.61899.xyz/m.php?id=sdws
-山东卫视,http://go.061899.xyz/mg/sdws
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=1
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=2
 山东卫视,http://192.151.150.154/tvlive/sdwshd.m3u8?node=3
@@ -3632,8 +3332,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-重庆卫视,http://k.61899.xyz/m.php?id=cqws
-重庆卫视,http://go.061899.xyz/mg/cqws
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=1
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=2
 重庆卫视,http://192.151.150.154/tvlive/cqwshd.m3u8?node=3
@@ -3656,8 +3354,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 陕西卫视,http://go.bkpcp.top/mg/sxws
 陕西卫视,http://j.s.bkpcp.top/jj/sxws
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
-陕西卫视,http://k.61899.xyz/m.php?id=sxws
-陕西卫视,http://go.061899.xyz/mg/sxws
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=1
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=2
 陕西卫视,http://192.151.150.154/tvlive/snwshd.m3u8?node=3
@@ -3680,8 +3376,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 辽宁卫视,http://go.bkpcp.top/mg/lmws
 辽宁卫视,http://j.s.bkpcp.top/jj/lmws
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lmws
-辽宁卫视,http://k.61899.xyz/m.php?id=lmws
-辽宁卫视,http://go.061899.xyz/mg/lmws
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=1
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=2
 辽宁卫视,http://192.151.150.154/tvlive/lnwshd.m3u8?node=3
@@ -3704,8 +3398,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 宁夏卫视,http://j.s.bkpcp.top/jj/nxws
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
-宁夏卫视,http://k.61899.xyz/m.php?id=nxws
-宁夏卫视,http://go.061899.xyz/mg/nxws
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=1
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=2
 宁夏卫视,http://192.151.150.154/tvlive/nxws.m3u8?node=3
@@ -3728,8 +3420,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 青海卫视,http://go.bkpcp.top/mg/qhws
 青海卫视,http://j.s.bkpcp.top/jj/qhws
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
-青海卫视,http://k.61899.xyz/m.php?id=qhws
-青海卫视,http://go.061899.xyz/mg/qhws
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=1
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=2
 青海卫视,http://192.151.150.154/tvlive/qhws.m3u8?node=3
@@ -3752,8 +3442,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 东南卫视,http://go.bkpcp.top/mg/dnws
 东南卫视,http://j.s.bkpcp.top/jj/dnws
 东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-东南卫视,http://k.61899.xyz/m.php?id=dnws
-东南卫视,http://go.061899.xyz/mg/dnws
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=1
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=2
 东南卫视,http://192.151.150.154/tvlive/dnwshd.m3u8?node=3
@@ -3776,8 +3464,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 甘肃卫视,http://go.bkpcp.top/mg/gsws
 甘肃卫视,http://j.s.bkpcp.top/jj/gsws
 甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
-甘肃卫视,http://k.61899.xyz/m.php?id=gsws
-甘肃卫视,http://go.061899.xyz/mg/gsws
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=1
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=2
 甘肃卫视,http://192.151.150.154/tvlive/gswshd.m3u8?node=3
@@ -3800,8 +3486,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 三沙卫视,http://go.bkpcp.top/mg/ssws
 三沙卫视,http://j.s.bkpcp.top/jj/ssws
 三沙卫视,http://t.061899.xyz/tl/tl.php?id=ssws
-三沙卫视,http://k.61899.xyz/m.php?id=ssws
-三沙卫视,http://go.061899.xyz/mg/ssws
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=1
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=2
 三沙卫视,http://192.151.150.154/tvlive/ssws.m3u8?node=3
@@ -3824,8 +3508,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 西藏卫视,http://go.bkpcp.top/mg/xzws
 西藏卫视,http://j.s.bkpcp.top/jj/xzws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-西藏卫视,http://k.61899.xyz/m.php?id=xzws
-西藏卫视,http://go.061899.xyz/mg/xzws
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=1
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=2
 西藏卫视,http://192.151.150.154/tvlive/xzws.m3u8?node=3
@@ -3848,8 +3530,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 新疆卫视,http://go.bkpcp.top/mg/xjws
 新疆卫视,http://j.s.bkpcp.top/jj/xjws
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-新疆卫视,http://k.61899.xyz/m.php?id=xjws
-新疆卫视,http://go.061899.xyz/mg/xjws
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=1
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=2
 新疆卫视,http://192.151.150.154/tvlive/xjws.m3u8?node=3
@@ -3872,8 +3552,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 云南卫视,http://go.bkpcp.top/mg/ynws
 云南卫视,http://j.s.bkpcp.top/jj/ynws
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
-云南卫视,http://k.61899.xyz/m.php?id=ynws
-云南卫视,http://go.061899.xyz/mg/ynws
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=1
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=2
 云南卫视,http://192.151.150.154/tvlive/ynwshd.m3u8?node=3
@@ -3896,8 +3574,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 厦门卫视,http://go.bkpcp.top/mg/xmws
 厦门卫视,http://j.s.bkpcp.top/jj/xmws
 厦门卫视,http://t.061899.xyz/tl/tl.php?id=xmws
-厦门卫视,http://k.61899.xyz/m.php?id=xmws
-厦门卫视,http://go.061899.xyz/mg/xmws
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=1
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=2
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=3
@@ -3920,8 +3596,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 延边卫视,http://go.bkpcp.top/mg/ybws
 延边卫视,http://j.s.bkpcp.top/jj/ybws
 延边卫视,http://t.061899.xyz/tl/tl.php?id=ybws
-延边卫视,http://k.61899.xyz/m.php?id=ybws
-延边卫视,http://go.061899.xyz/mg/ybws
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=1
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=2
 延边卫视,http://192.151.150.154/tvlive/ybws.m3u8?node=3
@@ -3944,8 +3618,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 凤凰卫视,http://go.bkpcp.top/mg/fhws
 凤凰卫视,http://j.s.bkpcp.top/jj/fhws
 凤凰卫视,http://t.061899.xyz/tl/tl.php?id=fhws
-凤凰卫视,http://k.61899.xyz/m.php?id=fhws
-凤凰卫视,http://go.061899.xyz/mg/fhws
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=1
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=2
 凤凰卫视,http://192.151.150.154/tvlive/fhws.m3u8?node=3
@@ -3968,8 +3640,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 香港卫视,http://go.bkpcp.top/mg/hkws
 香港卫视,http://j.s.bkpcp.top/jj/hkws
 香港卫视,http://t.061899.xyz/tl/tl.php?id=hkws
-香港卫视,http://k.61899.xyz/m.php?id=hkws
-香港卫视,http://go.061899.xyz/mg/hkws
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=1
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=2
 香港卫视,http://192.151.150.154/tvlive/hkws.m3u8?node=3
@@ -3992,8 +3662,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,http://j.s.bkpcp.top/jj/btws
 兵团卫视,http://t.061899.xyz/tl/tl.php?id=btws
-兵团卫视,http://k.61899.xyz/m.php?id=btws
-兵团卫视,http://go.061899.xyz/mg/btws
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=1
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=2
 兵团卫视,http://192.151.150.154/tvlive/btws.m3u8?node=3
@@ -4016,8 +3684,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 星空卫视,http://go.bkpcp.top/mg/xkws
 星空卫视,http://j.s.bkpcp.top/jj/xkws
 星空卫视,http://t.061899.xyz/tl/tl.php?id=xkws
-星空卫视,http://k.61899.xyz/m.php?id=xkws
-星空卫视,http://go.061899.xyz/mg/xkws
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=1
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=2
 星空卫视,http://192.151.150.154/tvlive/xkws.m3u8?node=3
@@ -4040,8 +3706,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 安多卫视,http://go.bkpcp.top/mg/adws
 安多卫视,http://j.s.bkpcp.top/jj/adws
 安多卫视,http://t.061899.xyz/tl/tl.php?id=adws
-安多卫视,http://k.61899.xyz/m.php?id=adws
-安多卫视,http://go.061899.xyz/mg/adws
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=1
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=2
 安多卫视,http://192.151.150.154/tvlive/adws.m3u8?node=3
@@ -4064,8 +3728,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 康巴卫视,http://go.bkpcp.top/mg/kbws
 康巴卫视,http://j.s.bkpcp.top/jj/kbws
 康巴卫视,http://t.061899.xyz/tl/tl.php?id=kbws
-康巴卫视,http://k.61899.xyz/m.php?id=kbws
-康巴卫视,http://go.061899.xyz/mg/kbws
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=1
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=2
 康巴卫视,http://192.151.150.154/tvlive/kbws.m3u8?node=3
@@ -4088,8 +3750,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://j.s.bkpcp.top/jj/hinws
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-海南卫视,http://k.61899.xyz/m.php?id=hinws
-海南卫视,http://go.061899.xyz/mg/hinws
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=1
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=2
 海南卫视,http://192.151.150.154/tvlive/lywshd.m3u8?node=3
@@ -4112,8 +3772,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://j.s.bkpcp.top/jj/hubws
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-湖北卫视,http://k.61899.xyz/m.php?id=hubws
-湖北卫视,http://go.061899.xyz/mg/hubws
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=1
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=2
 湖北卫视,http://192.151.150.154/tvlive/hbwshd.m3u8?node=3
@@ -4136,8 +3794,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 湖南卫视,http://go.bkpcp.top/mg/hunws
 湖南卫视,http://j.s.bkpcp.top/jj/hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-湖南卫视,http://k.61899.xyz/m.php?id=hunws
-湖南卫视,http://go.061899.xyz/mg/hunws
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=1
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=2
 湖南卫视,http://192.151.150.154/tvlive/hnwshd.m3u8?node=3
@@ -4160,8 +3816,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 山西卫视,http://go.bkpcp.top/mg/sxiws
 山西卫视,http://j.s.bkpcp.top/jj/sxiws
 山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
-山西卫视,http://k.61899.xyz/m.php?id=sxiws
-山西卫视,http://go.061899.xyz/mg/sxiws
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=1
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=2
 山西卫视,http://192.151.150.154/tvlive/sxwshd.m3u8?node=3
@@ -4184,8 +3838,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 哈尔滨卫视,http://go.bkpcp.top/mg/hrbws
 哈尔滨卫视,http://j.s.bkpcp.top/jj/hrbws
 哈尔滨卫视,http://t.061899.xyz/tl/tl.php?id=hrbws
-哈尔滨卫视,http://k.61899.xyz/m.php?id=hrbws
-哈尔滨卫视,http://go.061899.xyz/mg/hrbws
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=1
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=2
 哈尔滨卫视,http://192.151.150.154/tvlive/hrbws.m3u8?node=3
@@ -4208,8 +3860,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
 黑龙江卫视,http://j.s.bkpcp.top/jj/hljws
 黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-黑龙江卫视,http://k.61899.xyz/m.php?id=hljws
-黑龙江卫视,http://go.061899.xyz/mg/hljws
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=1
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=2
 黑龙江卫视,http://192.151.150.154/tvlive/hljwshd.m3u8?node=3
@@ -4232,8 +3882,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 内蒙古卫视,http://j.s.bkpcp.top/jj/nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
-内蒙古卫视,http://k.61899.xyz/m.php?id=nmgws
-内蒙古卫视,http://go.061899.xyz/mg/nmgws
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=1
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=2
 内蒙古卫视,http://192.151.150.154/tvlive/nmgws.m3u8?node=3
@@ -4256,8 +3904,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 大湾区卫视,http://j.s.bkpcp.top/jj/dwqws
 大湾区卫视,http://t.061899.xyz/tl/tl.php?id=dwqws
-大湾区卫视,http://k.61899.xyz/m.php?id=dwqws
-大湾区卫视,http://go.061899.xyz/mg/dwqws
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=1
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=2
 大湾区卫视,http://192.151.150.154/tvlive/nfws.m3u8?node=3
@@ -4280,8 +3926,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 海峡卫视,http://go.bkpcp.top/mg/hxws
 海峡卫视,http://j.s.bkpcp.top/jj/hxws
 海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
-海峡卫视,http://k.61899.xyz/m.php?id=hxws
-海峡卫视,http://go.061899.xyz/mg/hxws
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=1
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=2
 海峡卫视,http://192.151.150.154/tvlive/hxws.m3u8?node=3
@@ -4304,8 +3948,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 厦门卫视,http://go.bkpcp.top/mg/xmws
 厦门卫视,http://j.s.bkpcp.top/jj/xmws
 厦门卫视,http://t.061899.xyz/tl/tl.php?id=xmws
-厦门卫视,http://k.61899.xyz/m.php?id=xmws
-厦门卫视,http://go.061899.xyz/mg/xmws
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=1
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=2
 厦门卫视,http://192.151.150.154/tvlive/xmws.m3u8?node=3
@@ -4328,8 +3970,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 农林卫视,http://go.bkpcp.top/mg/nlws
 农林卫视,http://j.s.bkpcp.top/jj/nlws
 农林卫视,http://t.061899.xyz/tl/tl.php?id=nlws
-农林卫视,http://k.61899.xyz/m.php?id=nlws
-农林卫视,http://go.061899.xyz/mg/nlws
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=1
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=2
 农林卫视,http://192.151.150.154/tvlive/nlws.m3u8?node=3
@@ -4354,8 +3994,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 南方影视,http://go.bkpcp.top/mg/nfys
 南方影视,http://j.s.bkpcp.top/jj/nfys
 南方影视,http://t.061899.xyz/tl/tl.php?id=nfys
-南方影视,http://k.61899.xyz/m.php?id=nfys
-南方影视,http://go.061899.xyz/mg/nfys
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=1
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=2
 南方影视,http://192.151.150.154/tvlive/nfys.m3u8?node=3
@@ -4378,8 +4016,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 广州影视,http://go.bkpcp.top/mg/gzys
 广州影视,http://j.s.bkpcp.top/jj/gzys
 广州影视,http://t.061899.xyz/tl/tl.php?id=gzys
-广州影视,http://k.61899.xyz/m.php?id=gzys
-广州影视,http://go.061899.xyz/mg/gzys
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=1
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=2
 广州影视,http://192.151.150.154/tvlive/gzys.m3u8?node=3
@@ -4402,8 +4038,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 广东影视,http://go.bkpcp.top/mg/gdys
 广东影视,http://j.s.bkpcp.top/jj/gdys
 广东影视,http://t.061899.xyz/tl/tl.php?id=gdys
-广东影视,http://k.61899.xyz/m.php?id=gdys
-广东影视,http://go.061899.xyz/mg/gdys
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=1
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=2
 广东影视,http://192.151.150.154/tvlive/gdys.m3u8?node=3
@@ -4426,8 +4060,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 广西影视,http://go.bkpcp.top/mg/gxys
 广西影视,http://j.s.bkpcp.top/jj/gxys
 广西影视,http://t.061899.xyz/tl/tl.php?id=gxys
-广西影视,http://k.61899.xyz/m.php?id=gxys
-广西影视,http://go.061899.xyz/mg/gxys
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=1
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=2
 广西影视,http://192.151.150.154/tvlive/gxys.m3u8?node=3
@@ -4450,8 +4082,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 东方影视,http://go.bkpcp.top/mg/dfys
 东方影视,http://j.s.bkpcp.top/jj/dfys
 东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
-东方影视,http://k.61899.xyz/m.php?id=dfys
-东方影视,http://go.061899.xyz/mg/dfys
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=1
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=2
 东方影视,http://192.151.150.154/tvlive/dfys.m3u8?node=3
@@ -4474,8 +4104,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 南宁影视,http://go.bkpcp.top/mg/nnys
 南宁影视,http://j.s.bkpcp.top/jj/nnys
 南宁影视,http://t.061899.xyz/tl/tl.php?id=nnys
-南宁影视,http://k.61899.xyz/m.php?id=nnys
-南宁影视,http://go.061899.xyz/mg/nnys
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=1
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=2
 南宁影视,http://192.151.150.154/tvlive/nnys.m3u8?node=3
@@ -4498,8 +4126,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 北京影视,http://go.bkpcp.top/mg/bjys
 北京影视,http://j.s.bkpcp.top/jj/bjys
 北京影视,http://t.061899.xyz/tl/tl.php?id=bjys
-北京影视,http://k.61899.xyz/m.php?id=bjys
-北京影视,http://go.061899.xyz/mg/bjys
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=1
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=2
 北京影视,http://192.151.150.154/tvlive/bjys.m3u8?node=3
@@ -4522,8 +4148,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 长沙影视,http://go.bkpcp.top/mg/csys
 长沙影视,http://j.s.bkpcp.top/jj/csys
 长沙影视,http://t.061899.xyz/tl/tl.php?id=csys
-长沙影视,http://k.61899.xyz/m.php?id=csys
-长沙影视,http://go.061899.xyz/mg/csys
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=1
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=2
 长沙影视,http://192.151.150.154/tvlive/csys.m3u8?node=3
@@ -4546,8 +4170,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 江苏影视,http://go.bkpcp.top/mg/jsys
 江苏影视,http://j.s.bkpcp.top/jj/jsys
 江苏影视,http://t.061899.xyz/tl/tl.php?id=jsys
-江苏影视,http://k.61899.xyz/m.php?id=jsys
-江苏影视,http://go.061899.xyz/mg/jsys
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=1
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=2
 江苏影视,http://192.151.150.154/tvlive/jsys.m3u8?node=3
@@ -4570,8 +4192,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 佛山影视,http://go.bkpcp.top/mg/fsys
 佛山影视,http://j.s.bkpcp.top/jj/fsys
 佛山影视,http://t.061899.xyz/tl/tl.php?id=fsys
-佛山影视,http://k.61899.xyz/m.php?id=fsys
-佛山影视,http://go.061899.xyz/mg/fsys
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=1
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=2
 佛山影视,http://192.151.150.154/tvlive/fsys.m3u8?node=3
@@ -4594,8 +4214,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 平泉影视,http://go.bkpcp.top/mg/pqys
 平泉影视,http://j.s.bkpcp.top/jj/pqys
 平泉影视,http://t.061899.xyz/tl/tl.php?id=pqys
-平泉影视,http://k.61899.xyz/m.php?id=pqys
-平泉影视,http://go.061899.xyz/mg/pqys
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=1
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=2
 平泉影视,http://192.151.150.154/tvlive/pqys.m3u8?node=3
@@ -4618,8 +4236,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 济南影视,http://go.bkpcp.top/mg/jnys
 济南影视,http://j.s.bkpcp.top/jj/jnys
 济南影视,http://t.061899.xyz/tl/tl.php?id=jnys
-济南影视,http://k.61899.xyz/m.php?id=jnys
-济南影视,http://go.061899.xyz/mg/jnys
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=1
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=2
 济南影视,http://192.151.150.154/tvlive/jnys.m3u8?node=3
@@ -4642,8 +4258,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 山东影视,http://go.bkpcp.top/mg/sdys
 山东影视,http://j.s.bkpcp.top/jj/sdys
 山东影视,http://t.061899.xyz/tl/tl.php?id=sdys
-山东影视,http://k.61899.xyz/m.php?id=sdys
-山东影视,http://go.061899.xyz/mg/sdys
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=1
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=2
 山东影视,http://192.151.150.154/tvlive/sdys.m3u8?node=3
@@ -4666,8 +4280,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 四川影视,http://go.bkpcp.top/mg/scys
 四川影视,http://j.s.bkpcp.top/jj/scys
 四川影视,http://t.061899.xyz/tl/tl.php?id=scys
-四川影视,http://k.61899.xyz/m.php?id=scys
-四川影视,http://go.061899.xyz/mg/scys
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=1
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=2
 四川影视,http://192.151.150.154/tvlive/scys.m3u8?node=3
@@ -4690,8 +4302,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 成都影视,http://go.bkpcp.top/mg/cdys
 成都影视,http://j.s.bkpcp.top/jj/cdys
 成都影视,http://t.061899.xyz/tl/tl.php?id=cdys
-成都影视,http://k.61899.xyz/m.php?id=cdys
-成都影视,http://go.061899.xyz/mg/cdys
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=1
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=2
 成都影视,http://192.151.150.154/tvlive/cdys.m3u8?node=3
@@ -4714,8 +4324,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 上虞影视,http://go.bkpcp.top/mg/syys
 上虞影视,http://j.s.bkpcp.top/jj/syys
 上虞影视,http://t.061899.xyz/tl/tl.php?id=syys
-上虞影视,http://k.61899.xyz/m.php?id=syys
-上虞影视,http://go.061899.xyz/mg/syys
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=1
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=2
 上虞影视,http://192.151.150.154/tvlive/syys.m3u8?node=3
@@ -4738,8 +4346,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 安徽影视,http://go.bkpcp.top/mg/ahys
 安徽影视,http://j.s.bkpcp.top/jj/ahys
 安徽影视,http://t.061899.xyz/tl/tl.php?id=ahys
-安徽影视,http://k.61899.xyz/m.php?id=ahys
-安徽影视,http://go.061899.xyz/mg/ahys
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=1
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=2
 安徽影视,http://192.151.150.154/tvlive/ahys.m3u8?node=3
@@ -4762,8 +4368,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 云南影视,http://go.bkpcp.top/mg/ynys
 云南影视,http://j.s.bkpcp.top/jj/ynys
 云南影视,http://t.061899.xyz/tl/tl.php?id=ynys
-云南影视,http://k.61899.xyz/m.php?id=ynys
-云南影视,http://go.061899.xyz/mg/ynys
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=1
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=2
 云南影视,http://192.151.150.154/tvlive/ynys.m3u8?node=3
@@ -4786,8 +4390,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 无锡影视,http://go.bkpcp.top/mg/wxys
 无锡影视,http://j.s.bkpcp.top/jj/wxys
 无锡影视,http://t.061899.xyz/tl/tl.php?id=wxys
-无锡影视,http://k.61899.xyz/m.php?id=wxys
-无锡影视,http://go.061899.xyz/mg/wxys
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=1
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=2
 无锡影视,http://192.151.150.154/tvlive/wxys.m3u8?node=3
@@ -4810,8 +4412,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 吉林影视,http://go.bkpcp.top/mg/jlys
 吉林影视,http://j.s.bkpcp.top/jj/jlys
 吉林影视,http://t.061899.xyz/tl/tl.php?id=jlys
-吉林影视,http://k.61899.xyz/m.php?id=jlys
-吉林影视,http://go.061899.xyz/mg/jlys
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=1
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=2
 吉林影视,http://192.151.150.154/tvlive/jlys.m3u8?node=3
@@ -4834,8 +4434,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 陕西影视,http://go.bkpcp.top/mg/sxys
 陕西影视,http://j.s.bkpcp.top/jj/sxys
 陕西影视,http://t.061899.xyz/tl/tl.php?id=sxys
-陕西影视,http://k.61899.xyz/m.php?id=sxys
-陕西影视,http://go.061899.xyz/mg/sxys
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=1
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=2
 陕西影视,http://192.151.150.154/tvlive/sxys.m3u8?node=3
@@ -4858,8 +4456,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 辽宁影视,http://go.bkpcp.top/mg/lnys
 辽宁影视,http://j.s.bkpcp.top/jj/lnys
 辽宁影视,http://t.061899.xyz/tl/tl.php?id=lnys
-辽宁影视,http://k.61899.xyz/m.php?id=lnys
-辽宁影视,http://go.061899.xyz/mg/lnys
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=1
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=2
 辽宁影视,http://192.151.150.154/tvlive/lnys.m3u8?node=3
@@ -4882,8 +4478,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 精彩影视,http://go.bkpcp.top/mg/jcys
 精彩影视,http://j.s.bkpcp.top/jj/jcys
 精彩影视,http://t.061899.xyz/tl/tl.php?id=jcys
-精彩影视,http://k.61899.xyz/m.php?id=jcys
-精彩影视,http://go.061899.xyz/mg/jcys
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=1
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=2
 精彩影视,http://192.151.150.154/tvlive/jcys.m3u8?node=3
@@ -4906,8 +4500,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 海南影视,http://go.bkpcp.top/mg/hinys
 海南影视,http://j.s.bkpcp.top/jj/hinys
 海南影视,http://t.061899.xyz/tl/tl.php?id=hinys
-海南影视,http://k.61899.xyz/m.php?id=hinys
-海南影视,http://go.061899.xyz/mg/hinys
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=1
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=2
 海南影视,http://192.151.150.154/tvlive/hinys.m3u8?node=3
@@ -4930,8 +4522,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 湖北影视,http://go.bkpcp.top/mg/hubys
 湖北影视,http://j.s.bkpcp.top/jj/hubys
 湖北影视,http://t.061899.xyz/tl/tl.php?id=hubys
-湖北影视,http://k.61899.xyz/m.php?id=hubys
-湖北影视,http://go.061899.xyz/mg/hubys
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=1
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=2
 湖北影视,http://192.151.150.154/tvlive/hubys.m3u8?node=3
@@ -4954,8 +4544,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 湖南视剧,http://go.bkpcp.top/mg/hunys
 湖南视剧,http://j.s.bkpcp.top/jj/hunys
 湖南视剧,http://t.061899.xyz/tl/tl.php?id=hunys
-湖南视剧,http://k.61899.xyz/m.php?id=hunys
-湖南视剧,http://go.061899.xyz/mg/hunys
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=1
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=2
 湖南视剧,http://192.151.150.154/tvlive/hunys.m3u8?node=3
@@ -4978,8 +4566,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 山西影视,http://go.bkpcp.top/mg/sxiys
 山西影视,http://j.s.bkpcp.top/jj/sxiys
 山西影视,http://t.061899.xyz/tl/tl.php?id=sxiys
-山西影视,http://k.61899.xyz/m.php?id=sxiys
-山西影视,http://go.061899.xyz/mg/sxiys
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=1
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=2
 山西影视,http://192.151.150.154/tvlive/sxiys.m3u8?node=3
@@ -5002,8 +4588,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 北京影院,http://go.bkpcp.top/mg/bjyy
 北京影院,http://j.s.bkpcp.top/jj/bjyy
 北京影院,http://t.061899.xyz/tl/tl.php?id=bjyy
-北京影院,http://k.61899.xyz/m.php?id=bjyy
-北京影院,http://go.061899.xyz/mg/bjyy
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=1
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=2
 北京影院,http://192.151.150.154/tvlive/bjyy.m3u8?node=3
@@ -5026,8 +4610,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 福州影院,http://go.bkpcp.top/mg/fzyy
 福州影院,http://j.s.bkpcp.top/jj/fzyy
 福州影院,http://t.061899.xyz/tl/tl.php?id=fzyy
-福州影院,http://k.61899.xyz/m.php?id=fzyy
-福州影院,http://go.061899.xyz/mg/fzyy
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=1
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=2
 福州影院,http://192.151.150.154/tvlive/fzyy.m3u8?node=3
@@ -5050,8 +4632,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 吉林影院,http://go.bkpcp.top/mg/jlyy
 吉林影院,http://j.s.bkpcp.top/jj/jlyy
 吉林影院,http://t.061899.xyz/tl/tl.php?id=jlyy
-吉林影院,http://k.61899.xyz/m.php?id=jlyy
-吉林影院,http://go.061899.xyz/mg/jlyy
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=1
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=2
 吉林影院,http://192.151.150.154/tvlive/jlyy.m3u8?node=3
@@ -5074,8 +4654,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 山西影院,http://go.bkpcp.top/mg/sixyy
 山西影院,http://j.s.bkpcp.top/jj/sixyy
 山西影院,http://t.061899.xyz/tl/tl.php?id=sixyy
-山西影院,http://k.61899.xyz/m.php?id=sixyy
-山西影院,http://go.061899.xyz/mg/sixyy
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=1
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=2
 山西影院,http://192.151.150.154/tvlive/sixyy.m3u8?node=3
@@ -5098,8 +4676,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 黑龙江影视,http://go.bkpcp.top/mg/sixyy
 黑龙江影视,http://j.s.bkpcp.top/jj/sixyy
 黑龙江影视,http://t.061899.xyz/tl/tl.php?id=sixyy
-黑龙江影视,http://k.61899.xyz/m.php?id=sixyy
-黑龙江影视,http://go.061899.xyz/mg/sixyy
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=1
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=2
 黑龙江影视,http://192.151.150.154/tvlive/sixyy.m3u8?node=3
@@ -5122,8 +4698,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 哈尔滨影视,http://go.bkpcp.top/mg/hrbys
 哈尔滨影视,http://j.s.bkpcp.top/jj/hrbys
 哈尔滨影视,http://t.061899.xyz/tl/tl.php?id=hrbys
-哈尔滨影视,http://k.61899.xyz/m.php?id=hrbys
-哈尔滨影视,http://go.061899.xyz/mg/hrbys
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=1
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=2
 哈尔滨影视,http://192.151.150.154/tvlive/hrbys.m3u8?node=3
@@ -5146,8 +4720,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 深圳电视剧,http://go.bkpcp.top/mg/szdsj
 深圳电视剧,http://j.s.bkpcp.top/jj/szdsj
 深圳电视剧,http://t.061899.xyz/tl/tl.php?id=szdsj
-深圳电视剧,http://k.61899.xyz/m.php?id=szdsj
-深圳电视剧,http://go.061899.xyz/mg/szdsj
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=1
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=2
 深圳电视剧,http://192.151.150.154/tvlive/szdsj.m3u8?node=3
@@ -5170,8 +4742,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 湖南电视剧,http://go.bkpcp.top/mg/hundsj
 湖南电视剧,http://j.s.bkpcp.top/jj/hundsj
 湖南电视剧,http://t.061899.xyz/tl/tl.php?id=hundsj
-湖南电视剧,http://k.61899.xyz/m.php?id=hundsj
-湖南电视剧,http://go.061899.xyz/mg/hundsj
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=1
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=2
 湖南电视剧,http://192.151.150.154/tvlive/hundsj.m3u8?node=3
@@ -5194,8 +4764,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 武汉电视剧,http://go.bkpcp.top/mg/whdsj
 武汉电视剧,http://j.s.bkpcp.top/jj/whdsj
 武汉电视剧,http://t.061899.xyz/tl/tl.php?id=whdsj
-武汉电视剧,http://k.61899.xyz/m.php?id=whdsj
-武汉电视剧,http://go.061899.xyz/mg/whdsj
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=1
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=2
 武汉电视剧,http://192.151.150.154/tvlive/whdsj.m3u8?node=3
@@ -5218,8 +4786,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 福建电视剧,http://go.bkpcp.top/mg/fjdsj
 福建电视剧,http://j.s.bkpcp.top/jj/fjdsj
 福建电视剧,http://t.061899.xyz/tl/tl.php?id=fjdsj
-福建电视剧,http://k.61899.xyz/m.php?id=fjdsj
-福建电视剧,http://go.061899.xyz/mg/fjdsj
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=1
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=2
 福建电视剧,http://192.151.150.154/tvlive/fjdsj.m3u8?node=3
@@ -5242,8 +4808,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 辽宁影视剧,http://go.bkpcp.top/mg/lndsj
 辽宁影视剧,http://j.s.bkpcp.top/jj/lndsj
 辽宁影视剧,http://t.061899.xyz/tl/tl.php?id=lndsj
-辽宁影视剧,http://k.61899.xyz/m.php?id=lndsj
-辽宁影视剧,http://go.061899.xyz/mg/lndsj
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=1
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=2
 辽宁影视剧,http://192.151.150.154/tvlive/lndsj.m3u8?node=3
@@ -5266,8 +4830,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 黑龙江视剧,http://go.bkpcp.top/mg/hljdsj
 黑龙江视剧,http://j.s.bkpcp.top/jj/hljdsj
 黑龙江视剧,http://t.061899.xyz/tl/tl.php?id=hljdsj
-黑龙江视剧,http://k.61899.xyz/m.php?id=hljdsj
-黑龙江视剧,http://go.061899.xyz/mg/hljdsj
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=1
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=2
 黑龙江视剧,http://192.151.150.154/tvlive/hljdsj.m3u8?node=3
@@ -5290,8 +4852,6 @@ CCTV5+,http://207.56.13.146:81/daili/.m3u8?line=2
 哈尔滨视剧,http://go.bkpcp.top/mg/hrbdsj
 哈尔滨视剧,http://j.s.bkpcp.top/jj/hrbdsj
 哈尔滨视剧,http://t.061899.xyz/tl/tl.php?id=hrbdsj
-哈尔滨视剧,http://k.61899.xyz/m.php?id=hrbdsj
-哈尔滨视剧,http://go.061899.xyz/mg/hrbdsj
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=1
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=2
 哈尔滨视剧,http://192.151.150.154/tvlive/hrbdsj.m3u8?node=3
