@@ -85,10 +85,20 @@ hit_rate = hit_count / total_templates if total_templates > 0 else 0
 print(f"🎯 命中率: {hit_count}/{total_templates} = {hit_rate:.1%}")
 
 # ---------- 4. 决定是否输出 ipvt-1.txt ----------
+# ---------- 4. 输出 ipvt-1.txt ----------
 if hit_rate > 0.8:
     with open("ipvt-1.txt", "w", encoding="utf-8") as out:
         for line in matched_lines:
             out.write(line + "\n")
     print(f"✅ 命中率超过80%，已更新 ipvt-1.txt，共 {len(matched_lines)} 行")
 else:
-    print("⚠️ 命中率不足80%，本次不更新 ipvt-1.txt（防止意外清空）")
+    # 即使命中率不足，也写入一个空文件或者保留原有内容？
+    # 为了不让 git 报错，我们写入一个提示文件（或者复制最近一次成功的）
+    # 更安全的做法：如果文件已存在，就不动它；如果不存在，建一个空白文件避免 git add 失败
+    import os
+    if not os.path.exists("ipvt-1.txt"):
+        with open("ipvt-1.txt", "w", encoding="utf-8") as out:
+            out.write("# 本次命中率不足80%，未更新有效数据\n")
+        print("⚠️ 命中率不足80%，新建了一个空白占位文件 ipvt-1.txt，避免 git 报错")
+    else:
+        print("⚠️ 命中率不足80%，保留原有 ipvt-1.txt 不变")
