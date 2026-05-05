@@ -31,6 +31,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ipvt-1.txt
-          git commit -m "自动更新iptv源 $(date '+%Y-%m-%d %H:%M:%S')" || echo "无变化，无需提交"
-          git push
+          # 检查 ipvt-1.txt 是否存在
+          if [ -f ipvt-1.txt ]; then
+            git add ipvt-1.txt
+            git commit -m "自动更新iptv源 $(date '+%Y-%m-%d %H:%M:%S')" || echo "无变化，无需提交"
+            git push
+          else
+            echo "ipvt-1.txt 不存在，跳过提交"
+          fi
