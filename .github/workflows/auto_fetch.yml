@@ -1,0 +1,36 @@
+name: 每天自动抓取IPTV并筛选
+
+on:
+  schedule:
+    # 每天北京时间 05:00 运行（UTC时间21:00）
+    - cron: '0 21 * * *'
+  workflow_dispatch:   # 允许手动触发
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 有权推送文件到仓库
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行筛选脚本
+        run: python fetch_and_filter.py
+
+      - name: 提交并推送修改
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ipvt-1.txt
+          git commit -m "自动更新iptv源 $(date '+%Y-%m-%d %H:%M:%S')" || echo "无变化，无需提交"
+          git push
