@@ -1,5 +1,10 @@
 总频道,#genre#
-CCTV1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+CCTV1,http://play.kankanlive.com/live/1720408280309109.m3u8
+CCTV1,rtmp://play.kankanlive.com/live/1720408280309109
+CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
+CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
+CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 CCTV1,http://m.061899.xyz/mg/cctv1
 CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -85,6 +90,7 @@ CCTV12,http://go.bkpcp.top/mg/cctv12
 CCTV12,http://j.s.bkpcp.top/jj/cctv12
 CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
 
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,http://m.061899.xyz/mg/cctv13
 CCTV13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
