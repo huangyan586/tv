@@ -15,8 +15,8 @@ for url in urls:
         r.raise_for_status()
         
         # 🐞 解决中文乱码：自动检测编码或手动指定（优先使用 apparent_encoding）
-        if r.encoding is None or r.encoding == 'ISO-8859-1':
-            r.encoding = r.apparent_encoding or 'utf-8'
+        #if r.encoding is None or r.encoding == 'ISO-8859-1':
+        #    r.encoding = r.apparent_encoding or 'utf-8'
         
         lines = r.text.splitlines()
         temp_lines.extend(lines)
