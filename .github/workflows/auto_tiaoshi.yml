@@ -31,10 +31,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           if [ -f 临时.txt ]; then
             git add 临时.txt
             git commit -m "自动调试查看 $(date '+%Y-%m-%d %H:%M:%S')" || echo "无变化，无需提交"
-            git push
-          else
-            echo "ipvt-1.txt 不存在，跳过本次提交"
+            git push origin main
           fi
