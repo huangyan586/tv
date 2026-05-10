@@ -11,7 +11,25 @@ HEADERS = {
 TIMEOUT = 15
 
 # 黑名单域名，包含这些域名的URL将被过滤
-BLACKLIST_DOMAINS = ["061899.xyz", "bkpcp.top", "myalicdn.com"]
+# --- 配置 ---
+# 黑名单文件路径（每行一个域名）
+BLACKLIST_FILE = "黑名单.txt"
+
+def load_blacklist(file_path):
+    """从文件读取黑名单域名，返回列表（忽略空行和#开头的注释）"""
+    blacklist = []
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    blacklist.append(line)
+    except FileNotFoundError:
+        print(f"警告：黑名单文件 '{file_path}' 未找到，将不使用黑名单过滤")
+    return blacklist
+
+# 加载黑名单
+BLACKLIST_DOMAINS = load_blacklist(BLACKLIST_FILE)
 
 # 可从环境变量获取数据源，以便在GitHub Actions中灵活配置
 URL_LIST_FILE = os.environ.get("URL_LIST_FILE", "网址列表.txt")
