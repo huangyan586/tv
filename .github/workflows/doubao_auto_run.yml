@@ -1,0 +1,32 @@
+name: 豆包每日04:00自动更新IPTV
+
+on:
+  schedule:
+    - cron: "0 20 * * *"  # 国际时间04:00 = 国内凌晨04:00
+  workflow_dispatch:      # 允许手动运行
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 设置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行爬虫
+        run: python iptv_doubao.py
+
+      - name: 提交并推送结果
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "每日自动更新 IPTV 数据 ${{ github.sha }}"
+          add: "临时_doubao.txt"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
