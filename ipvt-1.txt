@@ -22,27 +22,18 @@
 河北卫视,http://bztv.tvbus.cc:8081/cdnlive/hews.m3u8
 河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
 河北卫视,http://sagrad.org:8181/3m1080p/hews.m3u8
-河北卫视,http://hns.7159287.xyz:8767/hebws.m3u8
-河北卫视,http://mt.itfree.cyb.wiki:20216/hebws.m3u8
-河北卫视,http://feiniu-nas.xipinju.top:8767/hebws.m3u8
-河北卫视,http://xihewan.cn:8767/hebws.m3u8
-河北卫视,http://223.166.245.157:13001/hebws.m3u8
-河北卫视,http://35.79.185.129:8767/hebws.m3u8
-河北卫视,http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://116.237.170.51:7788/962042070
 河北卫视,http://42.94.209.184:7788/962042070
 河北卫视,http://112.85.93.3:7788/962042070
 河北卫视,http://112.85.93.7:7788/962042070
-河北卫视,http://113.98.11.46:3000/962042070
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
 河北卫视,http://113.124.186.195:7788/962042070
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
+河北卫视,http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://218.13.139.26:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
-河北卫视,http://fuxin.yunjifei.top:999/tsfile/live/0117_1.m3u8?key=txiptv
-河北卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hbws/50/20251225/index.m3u8?msisdn=202611171002531cb24a45ad88498e88c0d0b1de6cbdd6&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20261117100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=171.8.79.254&SecurityKey=20261117100253&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=95e889c097f9a7ce24a91ab5cce9cd6d
+河北卫视,http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hbws/50/20251225/index.m3u8?msisdn=20261118100254a10195f5251445938b2c0d54dc961819&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20261118100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=171.8.79.254&SecurityKey=20261118100254&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e02c63e23be2e5b8b1f747a622d82d7d
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",河北卫视
 http://101.35.240.114:88/live.php?id=河北卫视
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="卫视频道" response-time="20ms",河北卫视
@@ -88,27 +79,21 @@ http://148.135.93.213:81/live.php?id=河北卫视
 河南卫视,http://bztv.tvbus.cc:8081/cdnlive/haws.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 河南卫视,http://sagrad.org:8181/3m1080p/haws.m3u8
-河南卫视,http://hns.7159287.xyz:8767/henanws.m3u8
-河南卫视,http://mt.itfree.cyb.wiki:20216/henanws.m3u8
-河南卫视,http://feiniu-nas.xipinju.top:8767/henanws.m3u8
-河南卫视,http://xihewan.cn:8767/henanws.m3u8
-河南卫视,http://223.166.245.157:13001/henanws.m3u8
-河南卫视,http://35.79.185.129:8767/henanws.m3u8
 河南卫视,http://by4.nty.tv189.cn/live/tm-dxhenanws-4000k.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fdd267b00b8fe4d8f0db97da5c385ad9&wsTime=1794899036
-河南卫视,http://42.94.209.184:7788/790187291
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7c9945549f6691f89382cdf55956fa67&wsTime=1794981802
 河南卫视,http://116.237.170.51:7788/790187291
 河南卫视,http://113.124.186.195:7788/790187291
-河南卫视,http://123.160.173.129:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://112.85.93.7:7788/790187291
+河南卫视,http://42.94.209.184:7788/790187291
 河南卫视,http://112.85.93.3:7788/790187291
-河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20261117100254125e8308cabe4975b47b5b5e822090ac&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20261117100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20261117100254&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6548cd97181f45f2dec0be611eac5b43
+河南卫视,http://112.85.93.7:7788/790187291
+河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+河南卫视,http://123.160.173.129:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20261118100254af0b88bfdb6b4664866bf85e2e448356&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20261118100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20261118100254&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a93466fb845d8c0409ff0d2690174695
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",河南卫视
 http://101.35.240.114:88/live.php?id=河南卫视
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="卫视频道" response-time="21ms",河南卫视
@@ -131,9 +116,9 @@ http://148.135.93.213/live.php?id=河南卫视
 http://148.135.93.213:81/live.php?id=河南卫视
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://go.bkpcp.top/mg/zjws
 浙江卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=zjws4k
@@ -154,15 +139,8 @@ http://148.135.93.213:81/live.php?id=河南卫视
 浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 浙江卫视,http://sagrad.org:8181/3m1080p/zjws.m3u8
-浙江卫视,http://hns.7159287.xyz:8767/zjws.m3u8
-浙江卫视,http://mt.itfree.cyb.wiki:20216/zjws.m3u8
-浙江卫视,http://feiniu-nas.xipinju.top:8767/zjws.m3u8
-浙江卫视,http://xihewan.cn:8767/zjws.m3u8
-浙江卫视,http://223.166.245.157:13001/zjws.m3u8
-浙江卫视,http://35.79.185.129:8767/zjws.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://123.160.173.129:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",浙江卫视
 http://101.35.240.114:88/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K8K频道",浙江卫视4K
@@ -212,24 +190,18 @@ http://148.135.93.213:81/live.php?id=浙江卫视
 北京卫视,http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
 北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 北京卫视,http://sagrad.org:8181/3m1080p/bjws.m3u8
-北京卫视,http://hns.7159287.xyz:8767/bjws.m3u8
-北京卫视,http://mt.itfree.cyb.wiki:20216/bjws.m3u8
-北京卫视,http://feiniu-nas.xipinju.top:8767/bjws.m3u8
-北京卫视,http://xihewan.cn:8767/bjws.m3u8
-北京卫视,http://223.166.245.157:13001/bjws.m3u8
-北京卫视,http://35.79.185.129:8767/bjws.m3u8
+北京卫视4K超高清,http://120.211.62.180:8000/hls/35/index.m3u8
 北京卫视,http://123.160.173.129:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20261117220254bc83d4af535b4340ae4b1207c13cc41f&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261117220254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=171.8.79.254&SecurityKey=20261117220254&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d6e0f647dc7333ed095495d54767f735
 北京卫视,http://113.124.186.195:7788/630287636
-北京卫视,http://116.237.170.51:7788/630287636
-北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://42.94.209.184:7788/630287636
-北京卫视,http://113.98.11.46:3000/630287636
 北京卫视,http://112.85.93.7:7788/630287636
-北京卫视,http://112.85.93.3:7788/630287636
-北京卫视,http://120.237.39.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1
-北京卫视,http://218.13.139.26:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://124.90.45.52:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=202611171002539bd56f13bf514cf0a2ecdbd46fd0c489&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261117100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=171.8.79.254&SecurityKey=20261117100253&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80e6766b139bac2eff50d9dd14706ad4
+北京卫视,http://116.237.170.51:7788/630287636
+北京卫视,http://112.85.93.3:7788/630287636
+北京卫视,http://218.13.139.26:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20261118100253543cefc05617456ba6a993a3b992cecb&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261118100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=171.8.79.254&SecurityKey=20261118100253&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7fc383492592c36f05bd2abca2e974c0
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",北京卫视
 http://101.35.240.114:88/live.php?id=北京卫视
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K8K频道",北京卫视4K
@@ -268,18 +240,9 @@ http://148.135.93.213:81/live.php?id=北京卫视
 安徽卫视,http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 安徽卫视,http://sagrad.org:8181/3m1080p/ahws.m3u8
-安徽卫视,http://hns.7159287.xyz:8767/ahws.m3u8
-安徽卫视,http://mt.itfree.cyb.wiki:20216/ahws.m3u8
-安徽卫视,http://feiniu-nas.xipinju.top:8767/ahws.m3u8
-安徽卫视,http://xihewan.cn:8767/ahws.m3u8
-安徽卫视,http://223.166.245.157:13001/ahws.m3u8
-安徽卫视,http://35.79.185.129:8767/ahws.m3u8
-安徽卫视,http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
-安徽卫视,http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://58.56.162.102:4466/newlive/live/hls/21/live.m3u8
 安徽卫视,http://124.90.45.52:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://124.228.160.40:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="iPhone" http-referer="https://www.ahtv.cn/" group-title="卫视IPV4",安徽卫视
 http://101.35.240.114:88/live.php?id=安徽卫视
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="卫视频道" response-time="14ms",安徽卫视
@@ -314,19 +277,11 @@ http://148.135.93.213:81/live.php?id=安徽卫视
 山东卫视,http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8
 山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
 山东卫视,http://sagrad.org:8181/3m1080p/sdws.m3u8
-山东卫视,http://hns.7159287.xyz:8767/sdws.m3u8
-山东卫视,http://mt.itfree.cyb.wiki:20216/sdws.m3u8
-山东卫视,http://feiniu-nas.xipinju.top:8767/sdws.m3u8
-山东卫视,http://xihewan.cn:8767/sdws.m3u8
-山东卫视,http://223.166.245.157:13001/sdws.m3u8
-山东卫视,http://35.79.185.129:8767/sdws.m3u8
 山东卫视,http://123.160.173.129:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://218.13.139.26:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8?key=txiptv
-山东卫视,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 山东卫视,http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",山东卫视
 http://101.35.240.114:88/live.php?id=山东卫视
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K8K频道",山东卫视4K
@@ -373,24 +328,19 @@ http://148.135.93.213:81/live.php?id=山东卫视
 重庆卫视HD,http://198.204.228.26/live/cqwshd.m3u8
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://sagrad.org:8181/3m1080p/cqws.m3u8
-重庆卫视,http://hns.7159287.xyz:8767/cqws.m3u8
-重庆卫视,http://mt.itfree.cyb.wiki:20216/cqws.m3u8
-重庆卫视,http://feiniu-nas.xipinju.top:8767/cqws.m3u8
-重庆卫视,http://xihewan.cn:8767/cqws.m3u8
-重庆卫视,http://223.166.245.157:13001/cqws.m3u8
-重庆卫视,http://35.79.185.129:8767/cqws.m3u8
 重庆卫视,http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8
 重庆卫视,http://123.160.173.129:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202611172202562e9b6170cbdc47f2b5afb8968bdbc80b&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261117220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=171.8.79.254&SecurityKey=20261117220256&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0c8945c3cfc444a987b733bb702ff8a6
 重庆卫视,http://113.124.186.195:7788/738910914
-重庆卫视,http://116.237.170.51:7788/738910914
-重庆卫视,http://42.94.209.184:7788/738910914
-重庆卫视,http://112.85.93.3:7788/738910914
 重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://124.90.45.52:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://42.94.209.184:7788/738910914
+重庆卫视,http://116.237.170.51:7788/738910914
+重庆卫视,http://112.85.93.3:7788/738910914
+重庆卫视,http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=2026111710025538098da5dbe84754bd443d656b46a04d&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4bcf0d64d6a81950f645e56eaf99d244
+重庆卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202611181002558c5a4109f88e4783a47b1738bb5011f0&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261118100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=171.8.79.254&SecurityKey=20261118100255&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f2c1b540a05575dea5650e2630b3620d
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重庆卫视
 http://101.35.240.114:88/live.php?id=重庆卫视
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="卫视频道" response-time="15ms",重庆卫视
@@ -429,29 +379,16 @@ http://148.135.93.213:81/live.php?id=重庆卫视
 陕西卫视HD,http://198.204.228.26/live/snwshd.m3u8
 陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
 陕西卫视,http://sagrad.org:8181/3m1080p/snws.m3u8
-陕西卫视,http://hns.7159287.xyz:8767/saxws.m3u8
-陕西卫视,http://mt.itfree.cyb.wiki:20216/saxws.m3u8
-陕西卫视,http://feiniu-nas.xipinju.top:8767/saxws.m3u8
-陕西卫视,http://xihewan.cn:8767/saxws.m3u8
-陕西卫视,http://223.166.245.157:13001/saxws.m3u8
-陕西卫视,http://35.79.185.129:8767/saxws.m3u8
 陕西卫视,http://by4.nty.tv189.cn/live/tm-yssxws-4000k.m3u8
-陕西卫视,http://124.90.45.52:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://116.237.170.51:7788/738910838
-陕西卫视,http://113.98.11.46:3000/738910838
-陕西卫视,http://42.94.209.184:7788/738910838
 陕西卫视,http://113.124.186.195:7788/738910838
-陕西卫视,http://101.66.199.181:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://116.237.170.51:7788/738910838
+陕西卫视,http://42.94.209.184:7788/738910838
 陕西卫视,http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://218.13.139.26:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8
-陕西卫视,http://45.192.97.170:8880/play/534.m3u8
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
-陕西卫视,http://218.13.170.98:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://59.39.89.130:60901/tsfile/live/0125_23.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=20261117100120f54485a1f40940bbaa2b878c15374df4&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20261117100120&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=171.8.79.254&SecurityKey=20261117100120&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1acc5a5a02530c4122daa72ccf8cd177
+陕西卫视,http://113.25.252.226:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://101.66.199.181:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://218.13.139.26:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=202611181001192a7b9f696a17404180e2091a72faf80b&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20261118100119&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=171.8.79.254&SecurityKey=20261118100119&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b02ff028a311298aabae7af180cd18d9
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",陕西卫视
 http://101.35.240.114:88/live.php?id=陕西卫视
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="卫视频道" response-time="34ms",陕西卫视
@@ -493,28 +430,19 @@ http://148.135.93.213:81/live.php?id=陕西卫视
 辽宁卫视HD,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://bztv.tvbus.cc:8081/cdnlive/lnws.m3u8
 辽宁卫视,http://sagrad.org:8181/3m1080p/lnws.m3u8
-辽宁卫视,http://hns.7159287.xyz:8767/lnws.m3u8
-辽宁卫视,http://mt.itfree.cyb.wiki:20216/lnws.m3u8
-辽宁卫视,http://feiniu-nas.xipinju.top:8767/lnws.m3u8
-辽宁卫视,http://xihewan.cn:8767/lnws.m3u8
-辽宁卫视,http://223.166.245.157:13001/lnws.m3u8
-辽宁卫视,http://35.79.185.129:8767/lnws.m3u8
 辽宁卫视,http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
 辽宁卫视,http://123.160.173.129:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://116.237.170.51:7788/630291707
-辽宁卫视,http://42.94.209.184:7788/630291707
-辽宁卫视,http://113.98.11.46:3000/630291707
 辽宁卫视,http://113.124.186.195:7788/630291707
 辽宁卫视,http://112.85.93.3:7788/630291707
-辽宁卫视,http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://119.39.9.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://218.13.139.26:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
+辽宁卫视,http://42.94.209.184:7788/630291707
 辽宁卫视,http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://58.56.162.102:4466/newlive/live/hls/26/live.m3u8
-辽宁卫视,http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202611171002530a80bd66ba8a4deea9aab1a017f7877d&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20261117100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=171.8.79.254&SecurityKey=20261117100253&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=399f3d9cab76dcfeb5851b7277623410
+辽宁卫视,http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.13.139.26:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://58.56.162.102:4466/newlive/live/hls/26/live.m3u8
+辽宁卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202611181002532ddda11ad906495ca8b0d35fd8f0ebcb&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20261118100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=171.8.79.254&SecurityKey=20261118100253&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2556b84a33689caca72823c5f44bfbd7
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",辽宁卫视
 http://101.35.240.114:88/live.php?id=辽宁卫视
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="卫视频道" response-time="18ms",辽宁卫视
@@ -535,8 +463,8 @@ http://148.135.93.213/live.php?id=辽宁卫视
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="央卫备用",辽宁卫视
 http://148.135.93.213:81/live.php?id=辽宁卫视
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 宁夏卫视,http://120.87.19.109:80/PLTV/88888973/224/3221225681/10000100000000060000000000332989_0.smil/01.m3u8?fmt=ts2hls,744,01.m3u8&accountinfo=qL9TLkIYsZmx/OPSOG6mNAvyKOCScAe4hrX9Vo6puxGXw3qZ5Pmje9vqMpXjLeht0QDDT6IKU9j92Y9VVzXnz1yKE+1kYZFvmxPE4nzwhgNDoOJGeCpMZ+MZZcRlH37r:20200814173311,END&GuardEncType=8601
@@ -557,27 +485,18 @@ http://148.135.93.213:81/live.php?id=辽宁卫视
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://bztv.tvbus.cc:8081/cdnlive/nxws.m3u8
 宁夏卫视,http://sagrad.org:8181/3m1080p/nxws.m3u8
-宁夏卫视,http://hns.7159287.xyz:8767/nxws.m3u8
-宁夏卫视,http://mt.itfree.cyb.wiki:20216/nxws.m3u8
-宁夏卫视,http://feiniu-nas.xipinju.top:8767/nxws.m3u8
-宁夏卫视,http://xihewan.cn:8767/nxws.m3u8
-宁夏卫视,http://223.166.245.157:13001/nxws.m3u8
-宁夏卫视,http://35.79.185.129:8767/nxws.m3u8
 宁夏卫视,http://by4.nty.tv189.cn/tm-ysnxws-4000k.m3u8
-宁夏卫视,http://58.56.162.102:4466/newlive/live/hls/43/live.m3u8
 宁夏卫视,http://116.237.170.51:7788/738910535
-宁夏卫视,http://112.85.93.7:7788/738910535
-宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://113.124.186.195:7788/738910535
-宁夏卫视,http://112.85.93.3:7788/738910535
 宁夏卫视,http://42.94.209.184:7788/738910535
-宁夏卫视,http://124.90.45.52:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://45.192.97.170:8880/play/530.m3u8
+宁夏卫视,http://112.85.93.7:7788/738910535
+宁夏卫视,http://112.85.93.3:7788/738910535
+宁夏卫视,http://113.124.186.195:7788/738910535
+宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://222.71.55.147:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://fuxin.yunjifei.top:999/tsfile/live/0112_1.m3u8?key=txiptv
-宁夏卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20261117100255623e4e6498374171a0f6950d76291899&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8dc0f86944384812966bbcca8d95020b
+宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://124.90.45.52:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://58.56.162.102:4466/newlive/live/hls/43/live.m3u8
+宁夏卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20261118100255d5a14cbe4893448d8936e5483f93adfd&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20261118100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=171.8.79.254&SecurityKey=20261118100255&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63aa3f511dfa83d74213585d61e0d610
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="卫视频道" response-time="18ms",宁夏卫视
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="卫视频道" response-time="23ms",宁夏卫视
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="卫视频道" response-time="50ms",宁夏卫视
@@ -607,25 +526,16 @@ http://148.135.93.213:81/live.php?id=辽宁卫视
 青海卫视,http://198.204.228.26/live/qhws.m3u8
 青海卫视,http://bztv.tvbus.cc:8081/cdnlive/qhws.m3u8
 青海卫视,http://sagrad.org:8181/3m1080p/qhws.m3u8
-青海卫视,http://hns.7159287.xyz:8767/qhws.m3u8
-青海卫视,http://mt.itfree.cyb.wiki:20216/qhws.m3u8
-青海卫视,http://feiniu-nas.xipinju.top:8767/qhws.m3u8
-青海卫视,http://xihewan.cn:8767/qhws.m3u8
-青海卫视,http://223.166.245.157:13001/qhws.m3u8
-青海卫视,http://35.79.185.129:8767/qhws.m3u8
 青海卫视,http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
 青海卫视,http://123.160.173.129:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://112.85.93.3:7788/947472506
 青海卫视,http://116.237.170.51:7788/947472506
-青海卫视,http://42.94.209.184:7788/947472506
 青海卫视,http://113.124.186.195:7788/947472506
+青海卫视,http://42.94.209.184:7788/947472506
+青海卫视,http://112.85.93.3:7788/947472506
 青海卫视,http://112.85.93.7:7788/947472506
-青海卫视,http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://218.13.139.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 青海卫视,http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=2026111710025482156bfb4f5640d4a6c5cd2adb7ed477&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20261117100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=171.8.79.254&SecurityKey=20261117100254&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3fe60c8e3eb9c2d9ac15596350e561c0
+青海卫视,http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202611181002542e058ae9745645a0abfbe60fa5f65db9&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20261118100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=171.8.79.254&SecurityKey=20261118100254&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=047d3c774c7e3e55439cc73c14fff16d
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",青海卫视
 http://101.35.240.114:88/live.php?id=青海卫视
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="卫视频道" response-time="20ms",青海卫视
@@ -663,21 +573,11 @@ http://148.135.93.213/live.php?id=青海卫视
 东南卫视HD,http://198.204.228.26/live/dnwshd.m3u8
 东南卫视,http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
 东南卫视,http://sagrad.org:8181/3m1080p/dnws.m3u8
-东南卫视,http://hns.7159287.xyz:8767/dnws.m3u8
-东南卫视,http://mt.itfree.cyb.wiki:20216/dnws.m3u8
-东南卫视,http://feiniu-nas.xipinju.top:8767/dnws.m3u8
-东南卫视,http://xihewan.cn:8767/dnws.m3u8
-东南卫视,http://223.166.245.157:13001/dnws.m3u8
-东南卫视,http://35.79.185.129:8767/dnws.m3u8
 东南卫视,http://by4.nty.tv189.cn/live/tm-dxdnws-4000k.m3u8
 东南卫视,http://123.160.173.129:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.90.45.52:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
-东南卫视,http://218.13.139.26:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://124.228.160.40:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东南卫视
 http://101.35.240.114:88/live.php?id=东南卫视
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视频道" response-time="19ms",东南卫视
@@ -713,15 +613,8 @@ http://148.135.93.213:81/live.php?id=东南卫视
 甘肃卫视HD,http://198.204.228.26/live/gswshd.m3u8
 甘肃卫视,http://bztv.tvbus.cc:8081/cdnlive/gsws.m3u8
 甘肃卫视,http://sagrad.org:8181/3m1080p/gsws.m3u8
-甘肃卫视,http://mt.itfree.cyb.wiki:20216/gsws.m3u8
-甘肃卫视,http://feiniu-nas.xipinju.top:8767/gsws.m3u8
-甘肃卫视,http://xihewan.cn:8767/gsws.m3u8
-甘肃卫视,http://223.166.245.157:13001/gsws.m3u8
-甘肃卫视,http://35.79.185.129:8767/gsws.m3u8
 甘肃卫视,http://by4.nty.tv189.cn/tm-dxgsws-4000k.m3u8
 甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-甘肃卫视,http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://58.56.162.102:4466/newlive/live/hls/46/live.m3u8
 甘肃卫视,http://45.192.97.170:8880/play/516.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",甘肃卫视
 http://101.35.240.114:88/live.php?id=甘肃卫视
@@ -754,15 +647,13 @@ http://148.135.93.213:81/live.php?id=甘肃卫视
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://bztv.tvbus.cc:8081/cdnlive/ssws.m3u8
 三沙卫视,http://sagrad.org:8181/3m1080p/ssws.m3u8
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
-三沙卫视,http://116.237.170.51:7788/961023778
-三沙卫视,http://112.85.93.7:7788/961023778
-三沙卫视,http://113.124.186.195:7788/961023778
-三沙卫视,http://42.94.209.184:7788/961023778
 三沙卫视,http://112.85.93.3:7788/961023778
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=202611171002557986d8cf1ae6475bba989ef629193484&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dfa3c44095e7818bddb0f0a918775d58
+三沙卫视,http://113.124.186.195:7788/961023778
+三沙卫视,http://116.237.170.51:7788/961023778
+三沙卫视,http://42.94.209.184:7788/961023778
+三沙卫视,http://112.85.93.7:7788/961023778
+三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026111810025536a8d49bb2ea4a2f99458cf371611204&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20261118100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=171.8.79.254&SecurityKey=20261118100255&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=03bfe39fd7acf3a86041a5908a0d1b9a
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" group-title="卫视频道" response-time="19ms",三沙卫视
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/三沙卫视.png" group-title="☘️海南频道",三沙卫视
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
@@ -772,23 +663,15 @@ http://148.135.93.213:81/live.php?id=甘肃卫视
 西藏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
 西藏卫视,http://sagrad.org:8181/3m1080p/xzws.m3u8
-西藏卫视,http://hns.7159287.xyz:8767/xizangws.m3u8
-西藏卫视,http://mt.itfree.cyb.wiki:20216/xizangws.m3u8
-西藏卫视,http://feiniu-nas.xipinju.top:8767/xizangws.m3u8
-西藏卫视,http://xihewan.cn:8767/xizangws.m3u8
-西藏卫视,http://223.166.245.157:13001/xizangws.m3u8
-西藏卫视,http://35.79.185.129:8767/xizangws.m3u8
 西藏卫视,http://by4.nty.tv189.cn/live/tm-dxxzws-4000k.m3u8
 西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-西藏卫视,http://58.56.162.102:4466/newlive/live/hls/45/live.m3u8
 西藏卫视,http://222.71.55.147:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+西藏卫视,http://58.56.162.102:4466/newlive/live/hls/45/live.m3u8
+西藏卫视,http://218.13.170.98:9901/tsfile/live/0111_1.m3u8
+西藏卫视,http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://198.204.228.26/live/xzws.m3u8
-西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
-西藏卫视,http://218.13.170.98:9901/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",西藏卫视
 http://101.35.240.114:88/live.php?id=西藏卫视
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="卫视频道" response-time="20ms",西藏卫视
@@ -813,23 +696,15 @@ http://148.135.93.213:81/live.php?id=西藏卫视
 新疆卫视,http://198.204.228.26/live/xjws.m3u8
 新疆卫视,http://bztv.tvbus.cc:8081/cdnlive/xjws.m3u8
 新疆卫视,http://sagrad.org:8181/3m1080p/xjws.m3u8
-新疆卫视,http://hns.7159287.xyz:8767/xjws.m3u8
-新疆卫视,http://mt.itfree.cyb.wiki:20216/xjws.m3u8
-新疆卫视,http://feiniu-nas.xipinju.top:8767/xjws.m3u8
-新疆卫视,http://xihewan.cn:8767/xjws.m3u8
-新疆卫视,http://223.166.245.157:13001/xjws.m3u8
-新疆卫视,http://35.79.185.129:8767/xjws.m3u8
 新疆卫视,http://by4.nty.tv189.cn/live/tm-dxxjws-4000k.m3u8
 新疆卫视,http://123.160.173.129:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://58.56.162.102:4466/newlive/live/hls/44/live.m3u8
-新疆卫视,http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
 新疆卫视,http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆卫视,http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆卫视,http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://45.192.97.170:8880/play/539.m3u8
-新疆卫视,http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8?key=txiptv
+新疆卫视,http://58.56.162.102:4466/newlive/live/hls/44/live.m3u8
 新疆卫视,http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",新疆卫视
 http://101.35.240.114:88/live.php?id=新疆卫视
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="卫视频道" response-time="15ms",新疆卫视
@@ -854,23 +729,13 @@ http://101.35.240.114:88/live.php?id=新疆卫视
 云南卫视HD,http://198.204.228.26/live/ynwshd.m3u8
 云南卫视,http://bztv.tvbus.cc:8081/cdnlive/ynws.m3u8
 云南卫视,http://sagrad.org:8181/3m1080p/ynws.m3u8
-云南卫视,http://hns.7159287.xyz:8767/ynws.m3u8
-云南卫视,http://mt.itfree.cyb.wiki:20216/ynws.m3u8
-云南卫视,http://feiniu-nas.xipinju.top:8767/ynws.m3u8
-云南卫视,http://xihewan.cn:8767/ynws.m3u8
-云南卫视,http://223.166.245.157:13001/ynws.m3u8
-云南卫视,http://35.79.185.129:8767/ynws.m3u8
 云南卫视,http://123.160.173.129:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+云南卫视,http://101.66.194.29:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://101.66.199.181:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://192.151.150.154/live/ynwshd.m3u8
-云南卫视,http://45.192.97.170:8880/play/541.m3u8
-云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
-云南卫视,http://101.66.194.29:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+云南卫视,http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="卫视频道" response-time="20ms",云南卫视
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="卫视频道" response-time="35ms",云南卫视
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="卫视频道" response-time="37ms",云南卫视
@@ -895,15 +760,13 @@ http://101.35.240.114:88/live.php?id=新疆卫视
 厦门卫视,http://bztv.tvbus.cc:8081/cdnlive/xmws.m3u8
 厦门卫视,http://sagrad.org:8181/3m1080p/xmws.m3u8
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
-厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
-厦门卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/厦门卫视.png" group-title="卫视频道" response-time="49ms",厦门卫视
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/厦门卫视.png" group-title="卫视频道",厦门卫视
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视HD,http://120.76.248.139/live/bfgd/4200000117.m3u8
 延边卫视,http://sagrad.org:8181/3m1080p/ybws.m3u8
 延边卫视,https://stream2.jlntv.cn/jlyb/sd/live.m3u8
@@ -911,8 +774,8 @@ http://101.35.240.114:88/live.php?id=新疆卫视
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="备用频道",延边卫视
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="央卫备用",延边卫视
-凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰卫视台.png" group-title="港澳代理",凤凰卫视
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
@@ -956,14 +819,14 @@ http://101.35.240.114:88/live.php?id=香港卫视
 兵团卫视,http://sagrad.org:8181/3m1080p/btws.m3u8
 兵团卫视,http://by4.nty.tv189.cn/live/tm-ysbtws-4000k.m3u8
 兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-兵团卫视,http://113.124.186.195:7788/956923145
+兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202611172202556f3d5ac07cbe4437b4ab6dedc1d5c034&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20261117220255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20261117220255&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=022fc7b97eb4aad7619b5c01c5102bb7
 兵团卫视,http://116.237.170.51:7788/956923145
-兵团卫视,http://113.98.11.46:3000/956923145
-兵团卫视,http://112.85.93.3:7788/956923145
+兵团卫视,http://113.124.186.195:7788/956923145
 兵团卫视,http://42.94.209.184:7788/956923145
+兵团卫视,http://112.85.93.3:7788/956923145
 兵团卫视,http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20261117100255e6a42bb25c434490add4a3e8503b5021&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8ca3e2dcd427fdc7ee3f397aac8ccf2c
+兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20261118100255cf11d83691894449a5e153117cfb87ec&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20261118100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20261118100255&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c6f4301408fd23d1e11495405cad389d
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵团卫视.png" group-title="卫视频道" response-time="18ms",兵团卫视
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵团卫视.png" group-title="卫视频道" response-time="52ms",兵团卫视
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵团卫视.png" group-title="卫视频道" response-time="99ms",兵团卫视
@@ -998,21 +861,13 @@ http://101.35.240.114:88/live.php?id=香港卫视
 海南卫视,http://119.29.233.26:1234/947472502
 海南卫视,http://175.24.134.198:1234/947472502
 海南卫视,http://sagrad.org:8181/3m1080p/lyws.m3u8
-海南卫视,http://hns.7159287.xyz:8767/hainanws.m3u8
-海南卫视,http://mt.itfree.cyb.wiki:20216/hainanws.m3u8
-海南卫视,http://feiniu-nas.xipinju.top:8767/hainanws.m3u8
-海南卫视,http://xihewan.cn:8767/hainanws.m3u8
-海南卫视,http://223.166.245.157:13001/hainanws.m3u8
-海南卫视,http://35.79.185.129:8767/hainanws.m3u8
 海南卫视,http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
 海南卫视,http://113.124.186.195:7788/947472502
-海南卫视,http://42.94.209.184:7788/947472502
-海南卫视,http://116.237.170.51:7788/947472502
-海南卫视,http://112.85.93.7:7788/947472502
 海南卫视,http://112.85.93.3:7788/947472502
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-海南卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20261117100109b397b9105c38486ca93c2da7aa68279c&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20261117100109&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=171.8.79.254&SecurityKey=20261117100109&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=85abc304cc751649c5dd034402a6a0ac
+海南卫视,http://112.85.93.7:7788/947472502
+海南卫视,http://116.237.170.51:7788/947472502
+海南卫视,http://42.94.209.184:7788/947472502
+海南卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20261118100109a67a8279e211429faed176867e78d01f&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20261118100109&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=171.8.79.254&SecurityKey=20261118100109&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e9bbefd3acd206c21fe528128117a85b
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",海南卫视
 http://101.35.240.114:88/live.php?id=海南卫视
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="卫视频道" response-time="21ms",海南卫视
@@ -1051,26 +906,15 @@ http://148.135.93.213:81/live.php?id=海南卫视
 湖北卫视HD,http://198.204.228.26/live/hbwshd.m3u8
 湖北卫视,http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
 湖北卫视,http://sagrad.org:8181/3m1080p/hbws.m3u8
-湖北卫视,http://hns.7159287.xyz:8767/hbws.m3u8
-湖北卫视,http://mt.itfree.cyb.wiki:20216/hbws.m3u8
-湖北卫视,http://feiniu-nas.xipinju.top:8767/hbws.m3u8
-湖北卫视,http://xihewan.cn:8767/hbws.m3u8
-湖北卫视,http://223.166.245.157:13001/hbws.m3u8
-湖北卫视,http://35.79.185.129:8767/hbws.m3u8
 湖北卫视,http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
 湖北卫视,http://113.124.186.195:7788/947472496
 湖北卫视,http://116.237.170.51:7788/947472496
-湖北卫视,http://112.85.93.3:7788/947472496
 湖北卫视,http://112.85.93.7:7788/947472496
-湖北卫视,http://124.90.45.52:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://42.94.209.184:7788/947472496
-湖北卫视,http://113.98.11.46:3000/947472496
+湖北卫视,http://112.85.93.3:7788/947472496
 湖北卫视,http://112.123.243.37:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://218.13.139.26:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
-湖北卫视,http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8?key=txiptv
 湖北卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
-湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20261117100254eecff83e3949434e8f0d83b09d2469b5&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20261117100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=171.8.79.254&SecurityKey=20261117100254&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=afce95b3ae6e5e455212439b80e0d922
+湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=2026111810025462a4881cfa934511b608c0b2ddd01592&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20261118100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=171.8.79.254&SecurityKey=20261118100254&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=808bb1ad2d318669f1ef97014e14d5d4
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖北卫视
 http://101.35.240.114:88/live.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="卫视频道" response-time="18ms",湖北卫视
@@ -1089,8 +933,8 @@ http://101.35.240.114:88/live.php?id=湖北卫视
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="央卫备用",湖北卫视
 http://148.135.93.213:81/live.php?id=湖北卫视
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://go.bkpcp.top/mg/hunws
@@ -1114,22 +958,10 @@ http://148.135.93.213:81/live.php?id=湖北卫视
 湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 湖南卫视,http://sagrad.org:8181/3m1080p/hnws.m3u8
-湖南卫视,http://hns.7159287.xyz:8767/hnws.m3u8
-湖南卫视,http://mt.itfree.cyb.wiki:20216/hnws.m3u8
-湖南卫视,http://feiniu-nas.xipinju.top:8767/hnws.m3u8
-湖南卫视,http://xihewan.cn:8767/hnws.m3u8
-湖南卫视,http://223.166.245.157:13001/hnws.m3u8
-湖南卫视,http://35.79.185.129:8767/hnws.m3u8
 湖南卫视4K,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://123.160.173.129:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://45.192.97.170:8880/play/476.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-湖南卫视,http://173.208.234.146/live/hnws.m3u8
-湖南卫视,http://45.192.97.170:8880/play/523.m3u8
-湖南卫视,http://45.192.97.170:8880/play/477.m3u8
 湖南卫视,http://124.90.45.52:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://104.152.209.49:8181/720p/hnws.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="卫视IPV4",湖南卫视
 http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K8K频道",湖南卫视4K
@@ -1153,8 +985,8 @@ http://101.35.240.114:88/live.php?id=湖南卫视4K
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="央卫备用",湖南卫视
 http://148.135.93.213:81/live.php?id=湖南卫视
-山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://120.87.19.109:80/PLTV/88888973/224/3221225677/10000100000000060000000000332983_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xr2uxdyqzJKrAgGuP3tHlCQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
@@ -1167,21 +999,12 @@ http://148.135.93.213:81/live.php?id=湖南卫视
 山西卫视HD,http://198.204.228.26/live/sxwshd.m3u8
 山西卫视,http://bztv.tvbus.cc:8081/cdnlive/sxws.m3u8
 山西卫视,http://sagrad.org:8181/3m1080p/sxws.m3u8
-山西卫视,http://hns.7159287.xyz:8767/shanxiws.m3u8
-山西卫视,http://mt.itfree.cyb.wiki:20216/shanxiws.m3u8
-山西卫视,http://feiniu-nas.xipinju.top:8767/shanxiws.m3u8
-山西卫视,http://xihewan.cn:8767/shanxiws.m3u8
-山西卫视,http://223.166.245.157:13001/shanxiws.m3u8
-山西卫视,http://35.79.185.129:8767/shanxiws.m3u8
 山西卫视,http://123.160.173.129:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
-山西卫视,http://124.90.45.52:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://101.66.198.77:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 山西卫视,http://101.66.194.29:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://198.204.228.26/live/sxwshd.m3u8
 山西卫视,http://59.39.89.130:60901/tsfile/live/0125_20.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://101.66.198.77:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",山西卫视
 http://101.35.240.114:88/live.php?id=山西卫视
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="卫视频道" response-time="20ms",山西卫视
@@ -1210,8 +1033,7 @@ http://148.135.93.213:81/live.php?id=山西卫视
 中国农林卫视,http://175.24.134.198:1234/956904896
 农林卫视,http://sagrad.org:8181/3m1080p/snnl.m3u8
 农林卫视,http://175.24.134.198:1234/956904896
-农林卫视,http://113.98.11.46:3000/956904896
-中国农林卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20261117100255712df033185a4e8688f7dcbbc023d73d&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1dfeee11939be06a8d2a1e504ceb084
+中国农林卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=202611181002554f3df95db140486793b09ba84c171ff0&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261118100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261118100255&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0fd530c405b8730b1271acebac512a52
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/农林卫视.png" group-title="卫视频道",农林卫视
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",农林卫视
 海峡卫视,https://10.fast.hidns.vip/163189/hxws/
@@ -1257,21 +1079,13 @@ http://148.135.93.213:81/live.php?id=山西卫视
 黑龙江卫视HD,http://198.204.228.26/live/hljwshd.m3u8
 黑龙江卫视,http://bztv.tvbus.cc:8081/cdnlive/hljws.m3u8
 黑龙江卫视,http://sagrad.org:8181/3m1080p/hljws.m3u8
-黑龙江卫视,http://hns.7159287.xyz:8767/hljws.m3u8
-黑龙江卫视,http://mt.itfree.cyb.wiki:20216/hljws.m3u8
-黑龙江卫视,http://feiniu-nas.xipinju.top:8767/hljws.m3u8
-黑龙江卫视,http://xihewan.cn:8767/hljws.m3u8
-黑龙江卫视,http://223.166.245.157:13001/hljws.m3u8
-黑龙江卫视,http://35.79.185.129:8767/hljws.m3u8
-黑龙江卫视,http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://113.98.11.46:3000/738906901
 黑龙江卫视,http://218.13.139.26:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
 黑龙江卫视,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
+黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-黑龙江卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/50/20251225/index.m3u8?msisdn=20261117100255010634fe8a4c454c9fb0e1b1ab65fb38&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20261117100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20261117100255&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0093ef197aa72094ae5bf3f3a243e26e
+黑龙江卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/50/20251225/index.m3u8?msisdn=2026111810025603b183f0916949e9aa8fc56e4a6ce900&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20261118100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20261118100256&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58958d15a57ac59b3237815c81397acf
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",黑龙江卫视
 http://101.35.240.114:88/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="卫视频道" response-time="14ms",黑龙江卫视
@@ -1301,16 +1115,8 @@ http://148.135.93.213:81/live.php?id=黑龙江卫视
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
 内蒙古卫视,http://bztv.tvbus.cc:8081/cdnlive/nmgws.m3u8
 内蒙古卫视,http://sagrad.org:8181/3m1080p/nmgws.m3u8
-内蒙古卫视,http://hns.7159287.xyz:8767/nmgws.m3u8
-内蒙古卫视,http://mt.itfree.cyb.wiki:20216/nmgws.m3u8
-内蒙古卫视,http://feiniu-nas.xipinju.top:8767/nmgws.m3u8
-内蒙古卫视,http://xihewan.cn:8767/nmgws.m3u8
-内蒙古卫视,http://223.166.245.157:13001/nmgws.m3u8
-内蒙古卫视,http://35.79.185.129:8767/nmgws.m3u8
-内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://222.71.55.147:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://118.193.115.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",内蒙古卫视
 http://101.35.240.114:88/live.php?id=内蒙古卫视
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="卫视频道" response-time="23ms",内蒙古卫视
@@ -1363,7 +1169,8 @@ http://148.135.93.213:81/live.php?id=内蒙古卫视
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 大湾区卫视,http://bztv.tvbus.cc:8081/cdnlive/nfws.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20261117100254790125593ac84dce9689c69d7049d7f6&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20261117100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20261117100254&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3613d2715e6412d36d1a1dd0c3e6ce26
+大湾区卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20261117220254bc111c0fbf7a45aa9762eb001b00f309&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20261117220254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20261117220254&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8e74d2682b8518b3876f1eb14432d9bf
+大湾区卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=202611181002546857fe5046c04f3ea79c17afbb10893e&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20261118100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20261118100254&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c9c69acabb2d185a3f02a6284ce5263
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",大湾区卫视
 http://101.35.240.114:88/live.php?id=大湾区卫视
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/大湾区卫视.png" group-title="卫视频道" response-time="53ms",大湾区卫视
@@ -1385,7 +1192,7 @@ http://148.135.93.213:81/live.php?id=大湾区卫视
 南方影视,http://www.zknowl.com:1234/614961829
 南方影视,http://119.29.233.26:1234/614961829
 南方影视,http://175.24.134.198:1234/614961829
-南方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=2026111710030304f29a615e9840f7853daa810a0ad113&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261117100303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261117100303&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a9e2ce716aaa8d70a6b63e95bb8fa7de
+南方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261118100308b934b2546dce4c4dbc04d27a7f7d2176&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261118100308&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261118100308&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f29ea51d0d82053b706b70d181d79663
 广州影视,rtsp://183.59.131.37:554/PLTV/88888905/224/3221230115/453198755.smil?0&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="☘️广东频道",广州影视
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="地方频道",广州影视
@@ -1425,7 +1232,7 @@ http://148.135.93.213:81/live.php?id=大湾区卫视
 上视东方影视,http://119.29.233.26:1234/617290047
 上视东方影视,http://175.24.134.198:1234/617290047
 东方影视HD,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
-上视东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=20261117080255e7a22c3ba9584dd889c4e035d245e620&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20261117080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20261117080255&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ded63ca5ac013b3ee74070d073eb0dc8
+上视东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=202611180802561f2824ff96554da48145a39a9d24b12d&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20261118080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20261118080256&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=655aefeb2af8af3f3104495f177d9de9
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png" group-title="咪咕央视",东方影视
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png" group-title="移动IPTV",东方影视
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="☘️上海频道",东方影视
@@ -1443,7 +1250,7 @@ http://148.135.93.213:81/live.php?id=大湾区卫视
 江苏影视频道,http://www.zknowl.com:1234/626064697
 江苏影视频道,http://119.29.233.26:1234/626064697
 江苏影视频道,http://175.24.134.198:1234/626064697
-江苏影视频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20261117100257ddcf2d2452f44f2b8f0c2809bef5185a&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261117100257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=171.8.79.254&SecurityKey=20261117100257&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c23f6f4eb0d2fab115ab9c1700ce9c88
+江苏影视频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20261118100257a62b00c95ece48ccaf53a85b5880c138&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261118100257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=171.8.79.254&SecurityKey=20261118100257&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b4109dd436ed678e76a9c51a508badd9
 #EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png" group-title="☘️江苏频道",江苏影视
 #EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png" group-title="地方频道",江苏影视
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan4.png" group-title="☘️四川频道",四川影视文艺
@@ -1453,7 +1260,7 @@ http://148.135.93.213:81/live.php?id=大湾区卫视
 吉林影视频道,http://www.zknowl.com:1234/968553184
 吉林影视频道,http://119.29.233.26:1234/968553184
 吉林影视频道,http://175.24.134.198:1234/968553184
-吉林影视频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jlyspd/50/20261014/index.m3u8?msisdn=2026111710030234d193f6fcaa4ceea715b9f041ddfb50&mdspid=&spid=600572&netType=0&sid=5910022522&pid=2028597139&timestamp=20261117100302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553184&ParentNodeID=-99&assertID=5910022522&client_ip=171.8.79.254&SecurityKey=20261117100302&promotionId=&mvid=5900006892&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a86090d6281937d54ffefe8bd3217f25
+吉林影视频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jlyspd/50/20261014/index.m3u8?msisdn=20261118100307c6df8785bf264b08bac02dab00eab405&mdspid=&spid=600572&netType=0&sid=5910022522&pid=2028597139&timestamp=20261118100307&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553184&ParentNodeID=-99&assertID=5910022522&client_ip=171.8.79.254&SecurityKey=20261118100307&promotionId=&mvid=5900006892&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=22b8f1f59d70cc5b550b2bf9c6a41d93
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视.png" group-title="☘️辽宁频道",辽宁影视
 http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
